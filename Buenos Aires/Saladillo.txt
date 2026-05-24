@@ -1,0 +1,47 @@
+# w060s40/w060s36/1969560.stg
+OBJECT_SHARED Models/Airport/Hangar_30x20m.ac -59.81195340 -35.60198553 47.2823 48.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_30x20m.ac -59.81120924 -35.60280952 46.7713 312.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81230441 -35.60174682 47.4057 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81239088 -35.60163243 47.4799 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81250672 -35.60150140 47.5621 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81262192 -35.60138934 47.6294 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81270365 -35.60124118 47.7313 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81234295 -35.60102885 47.9660 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81213956 -35.60101277 48.0161 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81195407 -35.60104838 48.0224 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81173483 -35.60114564 47.9861 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81108960 -35.60272459 46.8605 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81059188 -35.60300703 46.7310 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81156404 -35.60301663 46.5422 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81113304 -35.60341526 46.3088 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81005315 -35.60391825 46.1159 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.80976448 -35.60389864 46.1856 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.80949706 -35.60387057 46.2580 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81115381 -35.60162706 47.7139 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81142901 -35.60158513 47.6958 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81091006 -35.60180395 47.6197 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81151246 -35.60176273 47.5400 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81160064 -35.60173554 47.5450 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81111198 -35.60176247 47.6148 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-open.ac -59.81161060 -35.60220653 47.1716 149.8 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-red.xml -59.81156993 -35.60229639 47.1083 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/HorizTanks2.ac -59.81163088 -35.60314282 46.5072 316.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/LamppostGeneric_18m.xml -59.81109391 -35.60276568 46.8272 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/LamppostGeneric_18m.xml -59.81164719 -35.60218799 47.1795 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/LamppostGeneric_18m.xml -59.81209972 -35.60296462 46.4835 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pompe_100LL.ac -59.81168723 -35.60313223 46.4283 312.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/TOOLHOUSE.ac -59.81094223 -35.60257319 47.0071 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/FireTruck_7.30m.ac -59.81103383 -35.60266046 46.9214 224.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.79412092 -35.59564537 47.9241 280.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.79389871 -35.59540079 49.7495 280.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Storage_30x12.ac -59.81711393 -35.59620775 50.2912 120.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Storage_30x12.ac -59.81712150 -35.59704356 48.2664 120.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Storage_30x12.ac -59.81712081 -35.59676519 48.9426 302.5 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Storage_30x12.ac -59.81713070 -35.59648265 49.6712 300.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -59.77417056 -35.62490636 47.0026 316.7 0.0 -0.0
+
+# w060s40/w060s36/1969552.stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.77261360 -35.62942498 43.5006 140.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.76606214 -35.64770360 43.7808 51.5 0.0 -0.0
+OBJECT_SHARED Models/Industrial/iruej_chimney.xml -59.77352190 -35.62519519 47.5606 0.0 0.0 -0.0
+

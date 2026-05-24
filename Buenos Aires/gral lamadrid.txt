@@ -1,0 +1,45 @@
+
+# w070s40/w062s38/1936682.stg
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.26951868 -37.25098396 170.8079 48.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.26030786 -37.25426126 173.6413 48.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.25554541 -37.25158289 172.4189 48.0 0.0 -0.0
+
+# w070s40/w062s38/1936690.stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -61.26166230 -37.24447149 171.0067 300.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.27019374 -37.24687611 170.4412 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.25113783 -37.24959819 171.4343 32.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_30x20m.ac -61.28076593 -37.22153378 165.6574 196.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28219676 -37.22215607 166.2847 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28206216 -37.22204435 166.2187 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28193311 -37.22199931 166.1910 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28181873 -37.22189141 166.1274 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28163954 -37.22179283 166.0686 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28145334 -37.22167686 165.9997 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28125344 -37.22148283 165.8909 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -61.28106892 -37.22164163 165.9732 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -61.28154406 -37.22063528 165.5323 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -61.28127259 -37.22077125 165.5716 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -61.28107411 -37.22086865 165.5993 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28185584 -37.22023094 165.3761 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28155091 -37.21969258 165.1093 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28122372 -37.21941645 164.9672 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28073707 -37.21936927 165.0930 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28041960 -37.21971871 165.0292 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28023736 -37.21988445 165.0889 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28047460 -37.22020493 165.2519 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28071482 -37.22045490 165.3835 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.28085771 -37.22062789 165.4732 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/farmhouse1.ac -61.28109457 -37.22031073 165.3497 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_15x25m.ac -61.28226973 -37.22946090 167.5034 72.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -61.28214059 -37.22935646 167.5166 252.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -61.28102310 -37.22145914 165.8304 16.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/FuelTank_7x3m.ac -61.28233426 -37.22926414 167.4972 348.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/MS880_rallye-blue.xml -61.28074397 -37.22135531 165.8052 72.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pompe_100LL.ac -61.28077708 -37.22119785 165.7235 120.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/StopMarker.xml -61.28022151 -37.22945692 167.3614 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/StopMarker.xml -61.28019445 -37.22911393 167.3082 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/StopMarker.xml -61.27912251 -37.22321046 166.8355 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/StopMarker.xml -61.27917557 -37.22354860 167.0295 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/beacon.xml -61.28106378 -37.22117699 165.7375 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/anemometer_10m.xml -61.28089535 -37.22175403 166.0339 0.0 0.0 -0.0
+

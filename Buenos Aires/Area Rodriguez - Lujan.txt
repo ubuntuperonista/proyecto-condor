@@ -1,0 +1,35 @@
+------------------------------------------------------------------
+
+
+# w060s40/w060s35/1969619.stg
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.04472773 -34.67139747 33.5468 24.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.04365726 -34.67390677 33.6714 24.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.03814624 -34.66146836 28.7276 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.03812290 -34.65973947 28.2278 0.0 0.0 -0.0
+
+# w060s40/w060s35/1969627.stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.05516779 -34.58974142 33.1543 340.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.06015591 -34.58413993 37.2867 128.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.01744171 -34.59117431 34.4245 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.01352501 -34.59194648 39.3010 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.00870103 -34.59335709 35.1765 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.00149033 -34.59508628 37.6742 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.01377469 -34.58915330 36.2645 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.00790731 -34.58977197 33.6824 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.00286428 -34.59080734 42.1970 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.01105779 -34.59180158 38.8456 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.00557054 -34.59249763 33.4200 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.01556915 -34.59139141 34.7426 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.00964560 -34.58818955 35.5834 80.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.02706322 -34.57046935 30.0443 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.02560868 -34.57103304 33.5576 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.02563660 -34.57444993 31.0955 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.02686728 -34.57392898 30.5669 0.0 0.0 -0.0
+
+# w060s40/w059s35/1986008.stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.96572570 -34.59947305 32.1459 252.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -58.96878930 -34.60672930 37.1160 252.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -58.94615517 -34.58580672 36.8995 336.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -58.94293214 -34.58129006 34.7504 324.0 0.0 -0.0
+
+------------------------------------------------------------------

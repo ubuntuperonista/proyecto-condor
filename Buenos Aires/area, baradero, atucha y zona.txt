@@ -1,0 +1,287 @@
+# w060s40/w059s34/1986048.stg
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -58.91960129 -33.88535740 -3.0162 268.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -58.87038335 -33.92362724 -0.0306 240.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -58.90012829 -33.89196659 -0.9442 216.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -58.80256706 -33.93383567 -5.0531 264.0 0.0 -0.0
+
+# w060s40/w059s34/1986049.stg
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac -58.74756891 -33.96430349 -0.5268 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac -58.69796260 -33.98109009 0.6197 288.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac -58.63635226 -33.95831429 2.9952 72.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac -58.60713829 -33.95998948 0.9928 264.0 0.0 -0.0
+
+# w060s40/w059s34/1986050.stg
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -58.49600558 -33.96411976 1.5159 288.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -58.43087364 -33.95031064 -0.0024 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -58.42464626 -33.93046402 -0.0195 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -58.41147810 -33.95977852 -0.0402 192.0 0.0 -0.0
+
+# w060s40/w059s34/1986058.stg
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -58.44334126 -33.86965370 -0.0721 0.0 0.0 -0.0
+
+# Las Palmas
+# w060s40/w060s34/1969666.stg
+OBJECT_SHARED Models/Trees/line_trees.xml -59.28685177 -33.98225679 28.2281 52.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.28638475 -33.98165518 28.2725 52.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.28650226 -33.98033933 27.6799 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.28652005 -33.97810921 25.1275 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.28789859 -33.97884768 26.1356 312.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/Trawler.xml -59.25935162 -33.88332030 -0.0059 48.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/Tanker_mooring.xml -59.25434061 -33.88862647 -0.0073 48.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.38585163 -33.91447955 22.3559 40.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.38448451 -33.91395214 22.1380 220.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.38359252 -33.91330982 22.1269 220.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/pont_canal.xml -59.34890762 -33.94165326 2.1984 340.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/pont_canal.xml -59.34504113 -33.94283134 2.3319 340.6 0.0 -0.0
+
+#atucha
+# w060s40/w060s34/1969667.stg
+OBJECT_SHARED Models/Power/generic_power_plant.xml -59.20776685 -33.96433539 9.2131 48.0 0.0 -0.0
+OBJECT_SHARED Models/Power/machines.ac -59.20897854 -33.96724374 33.3768 236.0 0.0 -0.0
+OBJECT_SHARED Models/Power/reacteur.ac -59.20469419 -33.96791604 35.7244 0.0 0.0 -0.0
+OBJECT_SHARED Models/Power/reacteur.ac -59.20553792 -33.96745663 35.6426 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/rwd1-water-tower-01.xml -59.19762036 -33.96934673 16.9240 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/shed.ac -59.19823966 -33.96973104 22.0310 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/indust-dock500m.xml -59.19007900 -33.96388741 0.0938 316.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Usine_150_50.ac -59.19337689 -33.96521294 3.6031 144.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/ContainerCrane.xml -59.18876834 -33.96490946 0.0631 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/ContainerCrane.xml -59.19167405 -33.96256683 -0.0024 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Gas12m.ac -59.18987440 -33.96415209 0.0663 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml -59.19095069 -33.96473154 1.4590 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml -59.19023514 -33.96503869 0.2176 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml -59.18992750 -33.96529637 0.2229 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.xml -59.19252602 -33.96309928 0.6252 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.xml -59.19189489 -33.96352830 0.8936 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.xml -59.20912736 -33.96626417 23.9108 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.xml -59.20930653 -33.96652688 27.1830 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.xml -59.20953857 -33.96674870 30.0002 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone-Indus-long.xml -59.19942531 -33.97049692 29.6354 144.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -59.19888894 -33.95392727 -0.0041 240.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -59.18767728 -33.96133826 -0.0049 48.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -59.15100954 -33.98751022 -0.0071 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -59.23880808 -33.94084970 3.5971 72.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -59.22714591 -33.94159791 2.9834 252.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/black-sailing-boat.ac -59.24142225 -33.91890379 2.4657 168.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -59.06299650 -33.90849107 0.0071 240.0 0.0 -0.0
+
+#parte oeste de baradero
+# w060s40/w060s34/1969673.stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.50889921 -33.81438128 29.7291 344.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.52954310 -33.81418605 30.4090 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.51256718 -33.80315299 24.9857 56.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long-ba.ac -59.52098155 -33.81124609 25.2349 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long-ba.ac -59.51938738 -33.81172485 24.2062 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long-ba.ac -59.51758696 -33.81131446 27.2855 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long-ba.ac -59.52183843 -33.81807446 27.6040 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long-ba.ac -59.51984676 -33.81799298 30.0917 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long-ba.ac -59.52157119 -33.81491741 26.3694 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long-ba.ac -59.51977579 -33.81502763 27.0452 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hang31x21m.ac -59.50147369 -33.81712640 28.6595 244.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hang31x21m.ac -59.50198397 -33.81667385 28.6373 336.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.50123851 -33.81732049 28.6836 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.50133780 -33.81748766 28.6312 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.50151190 -33.81755811 28.5799 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.50161735 -33.81749986 28.5672 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.50175279 -33.81747220 28.5424 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.50213038 -33.81655284 28.6247 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.50228985 -33.81675692 28.5227 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.50206884 -33.81640052 28.6690 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.50222085 -33.81645463 28.5888 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.50238085 -33.81670272 28.4823 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.50235993 -33.81716163 28.4458 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.50249305 -33.81716740 28.3777 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.50263882 -33.81725034 28.2911 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.50170382 -33.81708087 28.6246 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/dhc2-baroudeur.xml -59.50172464 -33.81626746 28.7694 36.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/vintage1.xml -59.50157987 -33.81585490 28.8529 36.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Antena1.ac -59.50207106 -33.81696751 28.5644 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -59.50174389 -33.81661502 28.7008 348.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -59.50174964 -33.81663464 28.6937 358.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -59.50146052 -33.81681790 28.8393 332.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -59.50124359 -33.81650158 28.8672 328.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -59.50188168 -33.81671569 28.6780 336.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -59.50102395 -33.81661571 28.8311 328.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -59.50158662 -33.81682553 28.6984 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/StopMarker.xml -59.50051190 -33.81334662 28.5754 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/StopMarker.xml -59.50018464 -33.82029098 26.7024 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021838 -33.81767069 27.7899 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021594 -33.81742103 27.9245 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021806 -33.81705854 28.1207 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50026765 -33.82003951 26.8844 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50027228 -33.81988710 26.9435 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50026669 -33.81966466 27.0481 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50026755 -33.81951196 27.0945 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50026233 -33.81922488 27.2325 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50026352 -33.81895839 27.3782 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50026038 -33.81870024 27.5039 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50026188 -33.81850741 27.6336 0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50025063 -33.81830785 27.7263 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50023394 -33.81814475 27.7777 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021507 -33.81795882 27.7453 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021871 -33.81770993 27.7849 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021024 -33.81730170 27.9841 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021772 -33.81720795 28.0399 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50020531 -33.81705402 28.1136 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50020404 -33.81687675 28.2084 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50018497 -33.81670851 28.2824 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50027785 -33.81649885 28.3050 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50030099 -33.81630377 28.2818 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50026298 -33.81608598 28.2626 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50026432 -33.81578718 28.2469 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50028486 -33.81546858 28.2605 0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50020230 -33.81513269 28.3135 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50029199 -33.81478231 28.4009 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50020328 -33.81434972 28.5068 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50020852 -33.81371542 28.0944 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50020837 -33.81332103 27.8126 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50004371 -33.81284383 27.9485 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021352 -33.81536408 28.1495 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021694 -33.81561934 28.1913 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021120 -33.81586466 28.2166 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021561 -33.81611656 28.2557 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021687 -33.81630716 28.2867 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021897 -33.81647963 28.3184 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021519 -33.81667540 28.3275 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021460 -33.81694021 28.1836 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.50021714 -33.81722386 28.0312 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.52677291 -33.82442089 30.1808 352.0 0.0 -0.0
+
+#parte este de baradero
+# w060s40/w060s34/1969674.stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.49682957 -33.80661647 27.2405 348.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.49830833 -33.82247427 28.4355 340.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.49751967 -33.82070660 29.0976 340.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.49672715 -33.81897403 29.6182 338.9 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.49590381 -33.81718723 30.0248 340.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.49512064 -33.81531966 30.3245 340.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978032 -33.81999561 26.9673 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978197 -33.81322318 27.8497 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978373 -33.81353624 27.9360 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978555 -33.81374701 27.9344 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978486 -33.81402304 27.9348 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978683 -33.81422615 27.9348 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978599 -33.81449403 27.9354 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978532 -33.81478869 27.9362 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978686 -33.81500568 27.9366 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978631 -33.81519877 27.9373 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978626 -33.81536822 27.9379 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978269 -33.81564918 27.9432 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978194 -33.81584074 27.9458 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978099 -33.81608724 27.9492 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978325 -33.81629908 27.9451 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978327 -33.81648719 27.9462 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978378 -33.81673584 27.9233 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978687 -33.81696008 27.8558 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978172 -33.81722206 27.7767 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978118 -33.81744308 27.7108 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978136 -33.81767044 27.6446 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978687 -33.81785917 27.5922 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978353 -33.81811367 27.5189 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978763 -33.81837300 27.4414 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978505 -33.81868306 27.3538 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978371 -33.81904018 27.2497 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978241 -33.81943371 27.1333 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978370 -33.81983627 27.0194 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49978415 -33.82004239 26.9845 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49992507 -33.82067368 27.3378 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49992631 -33.82036967 27.0950 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49991088 -33.82090007 27.5357 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49996905 -33.81317634 27.7513 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.49975317 -33.81253024 28.2253 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower.xml -59.28909882 -33.85835456 0.9257 72.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.29946955 -33.83555763 -1.9388 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoat_38feet.xml -59.31188376 -33.82997886 -0.0110 216.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoat_38feet.xml -59.31857119 -33.82838257 -0.0225 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.31406299 -33.82724586 -0.0084 55.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.32604635 -33.81082956 -0.0077 192.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac -59.30356705 -33.78101953 -4.0178 288.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -59.29896213 -33.78054005 -4.0202 288.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -59.28206317 -33.76205997 -0.0285 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/white_sharp_pointed_boat.ac -59.28082016 -33.75846524 -0.0354 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/farmhouse1.ac -59.47279904 -33.86132180 30.9446 216.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/farmhouse3.ac -59.47225569 -33.86069449 32.0537 216.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.47421634 -33.86211388 27.2414 40.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.47352529 -33.86150610 30.1998 48.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.47278797 -33.86085623 31.8485 48.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.47449049 -33.86072224 30.0830 315.2 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.46562377 -33.85612332 27.6301 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.46602935 -33.85649026 27.4812 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.46617085 -33.85647277 28.1232 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.46563929 -33.85605374 27.8404 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.46654413 -33.85684996 27.7985 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.47243137 -33.85939206 36.2336 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.47226456 -33.85945673 36.0930 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.47205576 -33.85949861 36.0224 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.47197672 -33.85967973 35.5491 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.47181155 -33.85975925 34.7504 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.47166871 -33.85983488 33.8253 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.47233631 -33.86055374 33.0428 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.47207315 -33.86030125 33.2040 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.47174548 -33.85994030 33.6267 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.47345930 -33.85986760 34.7386 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.47320739 -33.85950422 35.7721 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.47284828 -33.85907363 37.0096 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.47259249 -33.85902554 37.1920 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.47248205 -33.85910354 37.0036 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/V.xml -59.47205047 -33.86236931 27.5294 316.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/V.xml -59.47291389 -33.86310238 27.4881 316.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/V.xml -59.46571236 -33.85704810 27.3721 136.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/V.xml -59.46519401 -33.85660157 27.8518 136.0 0.0 -0.0
+
+# w060s40/w060s34/1969681.stg
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -59.63639444 -33.66655565 -0.0237 216.0 0.0 -0.0
+
+# w060s40/w060s34/1969682.stg
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -59.27935916 -33.74839885 -0.0655 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -59.28235343 -33.73271566 -0.0029 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -59.25815915 -33.72348286 -0.0043 264.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/lake-sailingboat.ac -59.42102107 -33.73645187 -2.0150 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/lake-sailingboat.ac -59.42893701 -33.72568206 -2.0062 312.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/lake-sailingboat.ac -59.47906769 -33.66669370 -0.0226 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac -59.49370736 -33.65367649 -0.0194 72.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -59.47777908 -33.67405390 -0.0258 192.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -59.36724211 -33.73551576 -0.0147 280.0 0.0 -0.0
+
+# w060s40/w060s34/1969688.stg
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -59.75436520 -33.61363748 -0.0410 248.0 0.0 -0.0
+
+# w060s40/w060s35/1969658.stg
+OBJECT_SHARED Models/Trees/line_trees.xml -59.33529596 -34.03199441 10.4011 220.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/pont_autoroute.ac -59.33289905 -34.03472277 7.9356 42.8 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/pont_autoroute.ac -59.33319534 -34.03474865 8.2014 42.5 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/pont_autoroute.ac -59.30228454 -34.05622205 7.6169 256.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/pont_autoroute.ac -59.30240718 -34.05649112 6.6567 256.0 0.0 -0.0
+
+# w060s40/w060s35/1969659.stg
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.19436305 -34.04035222 29.2786 52.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.19516064 -34.04107498 29.2743 53.4 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.14897706 -34.06961596 28.1009 56.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.15097391 -34.06849971 27.7938 56.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.15304202 -34.06715614 26.3383 52.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/scrap_heap_small.ac -59.15460639 -34.06856016 26.7037 312.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/logistic.ac -59.15214762 -34.06981690 27.2244 320.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/garage_brown.ac -59.15310598 -34.06812539 27.1691 224.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/garage_brown.ac -59.15276598 -34.06838744 27.5957 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Storage_30x12.ac -59.15278704 -34.06832911 27.5953 232.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Schenker_storehouse35x30.xml -59.15117433 -34.06952554 27.6544 48.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.19626225 -34.04257160 29.1292 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.19928136 -34.04076468 27.2657 144.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.19787480 -34.04177625 27.5424 145.1 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -59.14870814 -34.01630191 -0.0267 192.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.20683497 -34.08437838 27.8927 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.20646952 -34.08436910 27.8719 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.20615626 -34.08435609 27.8543 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.20590083 -34.08435223 27.8397 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.20562034 -34.08433162 27.8249 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.20525635 -34.08431529 27.8057 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.20495991 -34.08428308 27.7916 0.0 0.0 -0.0
+OBJECT_SHARED Models/Communications/cell-monopole3-75m.xml -59.20327864 -34.07950883 28.0660 0.0 0.0 -0.0
+OBJECT_SHARED Models/Communications/radio-medium.xml -59.19418900 -34.04308928 -77.7313 0.0 0.0 --0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.19882002 -34.08678250 27.8063 336.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.19919942 -34.08658882 27.6928 336.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.19946161 -34.08641249 27.6585 336.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.19843635 -34.08695453 28.2687 336.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.21407559 -34.08458682 28.6948 328.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.20396267 -34.08134190 31.9178 64.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.20060495 -34.07540295 25.3677 312.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_AGE.ac -59.20750873 -34.07773969 27.4076 12.0 0.0 -0.0

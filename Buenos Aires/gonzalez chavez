@@ -1,0 +1,37 @@
+# w070s40/w061s39/1953019.stg
+OBJECT_SHARED Aircraft/ufo/Models/cursor.ac -60.13871880 -38.02543232 189.9750 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.10983519 -38.02809209 185.2480 324.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.09405869 -38.03260690 198.9875 48.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.10090633 -38.02436779 195.5238 320.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.10400347 -38.02205995 198.3729 48.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -60.10135277 -38.03149854 195.4515 329.7 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -60.09934348 -38.02876562 197.2074 328.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -60.12889448 -38.03295786 193.4419 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -60.12925156 -38.03265523 194.1081 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -60.12951822 -38.03238283 194.7345 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -60.12998086 -38.03195363 195.7013 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -60.13035159 -38.03162552 195.8032 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -60.13044269 -38.03229826 194.5254 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -60.13055227 -38.03269294 193.3798 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -60.13057625 -38.03320365 191.9543 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -60.12964442 -38.03403008 191.3308 312.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -60.12955012 -38.03264792 193.9102 40.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -60.13030515 -38.03310761 192.5460 352.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -60.12923407 -38.03334457 192.2081 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -60.12950616 -38.03312938 192.6730 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/beacon.xml -60.13011289 -38.03373356 191.3527 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/LFBI_Aeroclub.ac -60.12953357 -38.03380531 191.5722 220.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/FuelTank_7x3m.ac -60.12992617 -38.03397477 191.2418 128.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EHLE_marker.ac -60.13097073 -38.03464878 192.3354 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EHLE_marker.ac -60.13125840 -38.03437892 192.2343 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_20x18m_Rond.ac -60.13045008 -38.03418848 191.4085 48.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_20mx14m.ac -60.13076753 -38.03347381 191.5061 264.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/HangarCyl1.ac -60.13079108 -38.03372643 191.3814 170.3 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_14x20m.ac -60.13000183 -38.03314342 192.3964 132.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/HalfRunwayMarker.ac -60.13318658 -38.03280620 191.7431 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/HalfRunwayMarker.ac -60.13464601 -38.03325417 190.9988 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/DR400-red.xml -60.13079935 -38.03325890 191.7129 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/MS880_rallye-blue.xml -60.13106549 -38.03372306 191.4081 312.0 0.0 -0.0
+OBJECT_SHARED Models/Sport/SwimmingPool.xml -60.12953698 -38.03346214 191.7371 312.0 0.0 -0.0
+
+------------------------------------------------------------------

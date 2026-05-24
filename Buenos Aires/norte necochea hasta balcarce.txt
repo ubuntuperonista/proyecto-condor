@@ -1,0 +1,53 @@
+# w060s40/w059s39/1985777.stg
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -58.73663757 -38.20390248 71.0254 20.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.73931864 -38.20045298 71.7518 288.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.73884603 -38.20508022 70.2105 28.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.73655160 -38.20783916 69.7912 28.0 0.0 -0.0
+
+# w060s40/w059s39/1985785.stg
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -58.57400364 -38.10920405 84.3382 296.0 0.0 -0.0
+
+# w060s40/w059s39/1985786.stg
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.35468881 -38.01501521 108.0717 240.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -58.35100709 -38.01427793 111.7471 336.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.35696918 -38.01134444 111.6295 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.35272995 -38.01204228 111.4231 336.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -58.45357829 -38.08100126 88.5848 280.0 0.0 -0.0
+
+# w060s40/w059s39/1985761.stg
+OBJECT_SHARED Models/Industrial/Workshop_SideDoor_20x18m.ac -58.67515523 -38.38112372 37.5576 96.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Water-Tower-35m.ac -58.67538184 -38.38200827 37.9186 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.xml -58.67543210 -38.38158969 37.6180 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.xml -58.67579471 -38.38165435 37.6357 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.xml -58.67556656 -38.38108264 37.4876 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.xml -58.67587738 -38.38113935 37.4432 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.xml -58.67563006 -38.38084353 37.4564 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.xml -58.67580985 -38.38087123 37.4293 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.xml -58.67585644 -38.38072660 37.4094 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.xml -58.67567148 -38.38070185 37.4366 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.xml -58.67554576 -38.38203398 37.9246 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.xml -58.67551100 -38.38218599 38.0364 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.xml -58.67546519 -38.38236599 38.0629 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.xml -58.67523844 -38.38199273 37.9183 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.xml -58.67518931 -38.38214247 38.0295 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.xml -58.67515612 -38.38239354 38.1020 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml -58.67571921 -38.38053513 37.4195 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml -58.67598017 -38.38056722 37.3753 0.0 0.0 -0.0
+
+# w070s40/w062s39/1936578.stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -61.29643297 -38.98308740 12.6886 92.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -61.31016913 -38.98340673 10.8669 4.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -61.27968390 -38.98368684 5.0609 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/medium-apartment.ac -61.28585853 -38.98702718 8.3357 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/medium-apartment.ac -61.28619304 -38.98636005 9.9024 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/medium-apartment.ac -61.28751438 -38.98312910 8.8082 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/medium-apartment.ac -61.28800489 -38.98208916 6.7397 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/medium-apartment.ac -61.28861062 -38.98085253 7.4258 0.0 0.0 -0.0
+
+# w070s40/w061s39/1952961.stg
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.53482536 -38.91935158 4.4742 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.53632680 -38.92309167 9.1403 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.53149283 -38.92344906 6.9878 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.53108669 -38.92027551 4.8707 0.0 0.0 -0.0
+
+------------------------------------------------------------------

@@ -1,0 +1,70 @@
+# w070s40/w063s36/1920419.stg
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.00038397 -35.39273865 89.2484 0.0 0.0 -0.0
+
+# w070s40/w062s36/1936819.stg
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -61.04582835 -35.22278082 74.8066 72.0 0.0 -0.0
+
+# w070s40/w061s36/1953200.stg
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.82232039 -35.23842742 65.9823 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.81687273 -35.23854042 67.4443 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.82262016 -35.24133329 67.3658 92.0 0.0 -0.0
+
+# w070s40/w063s36/1920418.stg
+OBJECT_SHARED Models/Airport/hang31x21m.ac -62.47129061 -35.42561074 92.3637 156.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/YellowRunwayMarker.ac -62.47156966 -35.42868944 94.1378 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/YellowRunwayMarker.ac -62.46730082 -35.42189820 92.5473 344.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/StopMarker.xml -62.47065520 -35.42612440 92.9015 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/StopMarker.xml -62.47047589 -35.42580851 92.9781 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/SimpleFuelPump.xml -62.47041922 -35.42510845 92.2379 240.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/V.xml -62.47161973 -35.42904227 94.0870 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/V.xml -62.46722105 -35.42143188 93.0142 154.9 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -62.47219310 -35.42487853 92.7608 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -62.47202896 -35.42507521 92.7567 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -62.47131587 -35.42508836 92.2714 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -62.47142480 -35.42474740 92.2050 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -62.47141483 -35.42456831 92.2665 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -62.47054667 -35.42476386 92.2418 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -62.47048358 -35.42461020 92.2566 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -62.47042829 -35.42441705 92.3071 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml -62.47129782 -35.42536231 92.3280 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml -62.47125959 -35.42531334 92.3461 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml -62.47122794 -35.42526638 92.3599 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml -62.47119009 -35.42519260 92.3735 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml -62.47114177 -35.42508996 92.3896 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml -62.47109545 -35.42503189 92.4115 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml -62.47104776 -35.42495521 92.4168 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml -62.47116898 -35.42512344 92.3765 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml -62.47099303 -35.42489021 92.4175 0.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Hedge-50m.ac -62.47123443 -35.42514239 92.3353 336.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/grid-square_15m.ac -62.47046759 -35.42515524 92.2377 328.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/DR221.xml -62.47114296 -35.42585893 92.3106 160.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -62.47125768 -35.42541807 92.3644 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -62.45931313 -35.41260960 94.9306 104.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -62.45615029 -35.41197799 94.0231 104.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.42712108 -35.39154117 95.9187 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.42870612 -35.39654660 96.5786 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.42929680 -35.39974965 92.5743 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -62.42398522 -35.38798527 94.6474 280.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -62.42061436 -35.38731313 94.6716 288.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -62.41726533 -35.38664434 94.7738 280.0 0.0 -0.0
+
+# w070s40/w061s36/1953193.stg
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.73097731 -35.33821717 64.8227 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.72983351 -35.33909972 63.0994 312.0 0.0 -0.0
+
+# w070s40/w063s36/1920427.stg
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.24197505 -35.35669784 92.0372 24.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.23763579 -35.35535110 93.0143 24.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.24358820 -35.35282631 93.2916 36.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.23874709 -35.35119291 93.9601 48.0 0.0 -0.0
+
+# w070s40/w062s36/1936809.stg
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -61.74805420 -35.35642258 88.4640 288.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.61601830 -35.32998521 90.9818 24.0 0.0 -0.0
+
+# w070s40/w061s36/1953184.stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.87246558 -35.47067014 76.7002 124.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.91723122 -35.46167812 78.8056 36.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.87459329 -35.44190658 78.0390 120.0 0.0 -0.0
+
+------------------------------------------------------------------

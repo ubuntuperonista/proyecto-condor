@@ -1,0 +1,36 @@
+# w060s40/w060s35/1969651.stg
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml -59.10617625 -34.15090423 26.3998 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml -59.11679114 -34.15533210 26.2523 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml -59.11570193 -34.15613440 26.3131 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.11519766 -34.15499456 26.3898 228.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre.xml -59.15610002 -34.19691137 23.2907 216.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.15801507 -34.19586867 24.7892 240.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.22041822 -34.24691907 38.5777 48.0 0.0 -0.0
+
+# w060s40/w060s35/1969642.stg
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml -59.26727895 -34.29140512 37.2348 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml -59.26891664 -34.29139991 36.6220 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml -59.27090601 -34.29160987 34.6755 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml -59.26874067 -34.29297066 36.1361 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml -59.27050493 -34.29291147 36.2396 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.26898881 -34.28981659 36.7951 96.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml -59.32400080 -34.30060751 39.5510 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.32236541 -34.29931334 38.5819 328.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.25882694 -34.32415960 30.7340 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.25824234 -34.32435190 29.3373 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.25740466 -34.32458023 30.2097 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -59.25670314 -34.32482581 31.5395 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.25503458 -34.32265227 33.0763 320.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.25419587 -34.32294251 33.3887 320.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.25475309 -34.32052465 32.2037 48.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.25411207 -34.32026915 32.0071 48.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.25627280 -34.31749557 31.7454 316.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/canary_house1.ac -59.25605362 -34.32436109 32.6123 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/canary_house1.ac -59.25616153 -34.32415191 32.7280 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/canary_house1.ac -59.25854950 -34.31636421 34.0459 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/canary_house1.ac -59.25835286 -34.31619490 33.6413 0.0 0.0 -0.0
+
+# w060s40/w060s35/1969643.stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.20264715 -34.26948434 34.5649 48.0 0.0 -0.0
+
+------------------------------------------------------------------

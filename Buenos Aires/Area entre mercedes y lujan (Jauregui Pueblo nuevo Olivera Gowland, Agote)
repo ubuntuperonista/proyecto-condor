@@ -1,0 +1,70 @@
+
+# w060s40/w060s35/1969618.stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.35775388 -34.64974099 39.2509 12.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.32642287 -34.65074780 42.5324 284.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_AGE.ac -59.33052285 -34.65464208 32.1090 312.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_AGE.ac -59.33134746 -34.65522980 31.7408 136.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Schenker_storehouse35x30.xml -59.32535791 -34.65168686 33.4076 104.0 0.0 -0.0
+
+# w060s40/w060s35/1969626.stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.25346210 -34.62366756 27.2811 292.0 0.0 -0.0
+
+# w060s40/w060s35/1969627.stg
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.17353142 -34.61118128 29.7203 96.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.17285993 -34.61026212 29.3438 96.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.17389933 -34.60142320 30.1130 292.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.17811761 -34.59589192 28.3274 292.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -59.18581074 -34.58874940 25.2040 20.0 0.0 -0.0
+OBJECT_SHARED Models/Sport/FootballCourt.xml -59.18165186 -34.58721797 24.6907 304.0 0.0 -0.0
+OBJECT_SHARED Models/Sport/tennis_red.ac -59.18502101 -34.59203904 27.4930 336.0 0.0 -0.0
+OBJECT_SHARED Models/Sport/tennis_red.ac -59.18468560 -34.59257491 28.2301 336.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.18661999 -34.59165024 25.9381 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.18598428 -34.59143157 26.4345 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.18124429 -34.58972168 28.8682 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.18056806 -34.58966286 28.4394 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17987406 -34.58942457 28.8184 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17820389 -34.58716911 37.1792 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17785745 -34.58763394 34.4187 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17719926 -34.58741037 32.2586 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17744254 -34.58677045 35.4286 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17658264 -34.58616350 37.8490 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17650777 -34.58679198 34.1001 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17550876 -34.58540243 35.4399 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17570982 -34.58625228 31.5254 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17708368 -34.58578309 39.2472 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17603786 -34.58515006 38.9883 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17448529 -34.58536107 30.3037 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17368260 -34.58469996 28.5906 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17280090 -34.58435181 28.0718 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17224766 -34.58355348 28.1662 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17184089 -34.58222185 26.0818 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.17291697 -34.58332025 31.2543 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.17230479 -34.57334082 35.0977 301.5 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.14652211 -34.59338975 24.0077 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.14412082 -34.59338919 24.9426 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.14175850 -34.59356645 25.8279 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.13884341 -34.59311520 28.3449 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.14033277 -34.59062739 25.4243 288.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.14463864 -34.59685429 30.2712 124.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.14463290 -34.59560996 29.5524 288.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.12337466 -34.59274182 28.3100 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.11829824 -34.59212653 26.8664 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.12072092 -34.59276736 29.3352 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.16947901 -34.59238330 26.1869 288.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.16749795 -34.59174276 24.1823 288.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.16520758 -34.59099854 27.4161 291.4 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.16223106 -34.59278584 31.3574 24.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.16337489 -34.59096754 31.5055 24.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.16588925 -34.59272780 25.4610 24.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.16485434 -34.59458253 26.7401 24.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.16252324 -34.59899933 32.8607 24.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.16138288 -34.60070370 36.6206 24.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.16049289 -34.60237305 39.0165 20.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.18645649 -34.59458387 31.1073 24.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.18577511 -34.59647744 30.1483 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.17922580 -34.58465253 21.7240 296.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.17690350 -34.58334555 27.6531 308.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.18310523 -34.58877385 25.0526 28.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.18418406 -34.58705074 23.5932 28.0 0.0 -0.0
+
+------------------------------------------------------------------

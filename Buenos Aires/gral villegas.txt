@@ -1,0 +1,58 @@
+# w070s40/w063s35/1920448.stg
+OBJECT_SHARED Models/Airport/Hangar_30x20m.ac -62.99769647 -34.99697785 114.5415 344.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_2hauteurs.ac -62.99795739 -34.99765860 114.0429 344.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_22x18m.ac -62.99814508 -34.99827225 113.6844 348.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_22x18m.ac -62.99826232 -34.99855021 113.9049 344.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_large2.ac -62.99849756 -34.99889278 114.1733 344.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangars_45x18m.ac -62.99872284 -34.99952214 114.7175 344.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -62.99814198 -34.99892488 114.1411 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -62.99814874 -34.99900740 114.1983 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -62.99820013 -34.99909474 114.2660 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -62.99824125 -34.99916965 114.3225 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -62.99829634 -34.99924164 114.3798 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -62.99858178 -34.99419353 116.7003 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -62.99867228 -34.99411596 116.6017 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -62.99880581 -34.99414669 116.4679 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -62.99887715 -34.99403333 116.3861 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -62.99898192 -34.99409039 116.2839 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -62.99904527 -34.99393760 116.2072 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -62.99924613 -34.99431685 116.0326 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -62.99939256 -34.99454597 115.8836 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -62.99948025 -34.99474653 115.6263 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Caisse_100LL.ac -62.99827630 -34.99837226 113.7869 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Antena1.ac -62.99843400 -34.99917707 114.3571 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/D112.xml -62.99769418 -34.99707417 114.4848 264.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/DR400-orange.xml -62.99850955 -34.99896938 114.2274 240.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -62.99505522 -34.98976208 116.9850 72.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -62.99264353 -34.99036743 114.7946 72.0 0.0 -0.0
+
+# w070s40/w064s36/1904058.stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -63.37595631 -35.01102703 121.1334 348.0 0.0 -0.0
+
+# w070s40/w064s36/1904059.stg
+OBJECT_SHARED Models/Airport/Hangar_large2.ac -63.00045286 -35.00277961 113.7279 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/beacon_white.xml -63.00061579 -35.00311249 113.7817 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/GenericFuelStore5.ac -63.00027836 -35.00266788 113.7007 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_14x20m.ac -63.00067169 -35.00322492 113.8177 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/HangarCyl1.ac -63.00072240 -35.00352579 113.8491 152.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Antena1.ac -63.00040836 -35.00275143 113.7208 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -63.00063309 -35.00315061 113.7881 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -63.00078314 -35.00324839 113.8124 240.0 0.0 -0.0
+
+# w070s40/w064s35/1904067.stg
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -63.00117790 -34.99819970 113.5088 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -63.00112559 -34.99827433 113.5508 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -63.00107215 -34.99833599 113.5880 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -63.00101732 -34.99840892 113.6245 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -63.00097207 -34.99831000 113.5877 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -63.00091180 -34.99819624 113.5466 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -63.00085574 -34.99808869 113.5070 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -63.00097284 -34.99807907 113.4944 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -63.00108692 -34.99810568 113.4963 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -63.00104242 -34.99818020 113.5299 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -63.00098765 -34.99816151 113.5267 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -63.00128285 -34.99815080 113.4583 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/HalfRunwayMarker.ac -63.00085224 -34.99919469 114.4902 312.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/HalfRunwayMarker.ac -63.00105289 -34.99952285 114.6642 240.0 0.0 -0.0
+
+------------------------------------------------------------------
