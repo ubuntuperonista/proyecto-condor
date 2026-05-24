@@ -1,0 +1,141 @@
+
+# w070s40/w062s34/1936929.stg
+OBJECT_SHARED Models/Airport/Hangar_30_18.ac -61.51409098 -33.43209056 107.7251 212.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/5_populus.xml -61.51449855 -33.43262465 107.7907 296.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/5_populus.xml -61.51415874 -33.43317198 107.4484 296.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/5_populus.xml -61.51376927 -33.43378031 107.1734 296.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Eucalipto10m.xml -61.51415468 -33.43234547 107.7104 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Eucalipto10m.xml -61.51432844 -33.43237950 107.7697 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Eucalipto10m.xml -61.51446134 -33.43236644 107.8208 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Eucalipto10m.xml -61.51452585 -33.43222953 107.8648 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Eucalipto10m.xml -61.51434810 -33.43230627 107.7881 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/StopMarker.xml -61.51482078 -33.43175227 108.0466 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/SimpleFuelPump.xml -61.51434080 -33.43182592 107.8572 28.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/D112.xml -61.51451023 -33.43208025 107.8819 216.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/V.xml -61.51446160 -33.43084754 108.3380 309.3 0.0 -0.0
+OBJECT_SHARED Models/Airport/V.xml -61.50749842 -33.42681232 104.5532 128.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -61.51445962 -33.43197653 107.8794 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Antena1.ac -61.51423368 -33.43220970 107.7496 312.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/motorhome.ac -61.51434259 -33.43217428 107.8057 32.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_15x25m.ac -61.51402027 -33.43222418 107.6203 121.4 0.0 -0.0
+OBJECT_SHARED Models/Airport/beacon_white.xml -61.51398641 -33.43207964 107.6876 300.0 0.0 -0.0
+
+# w070s40/w062s34/1936930.stg
+OBJECT_SHARED Models/Industrial/Workshop_SideDoor_20x18m.ac -61.48496720 -33.47969744 104.6293 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Workshop_SideDoor_20x18m.ac -61.48495379 -33.48043692 105.1547 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml -61.48601918 -33.48170528 105.0421 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml -61.48609136 -33.48218766 105.7072 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml -61.48607495 -33.48193850 105.0912 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml -61.48600017 -33.48144584 105.2674 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml -61.48560418 -33.48146078 105.3247 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml -61.48537386 -33.48149876 105.3309 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml -61.48541540 -33.48164084 105.2671 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml -61.48560389 -33.48159676 105.2497 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.48392724 -33.47559849 105.1655 348.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.48302042 -33.46073393 106.9021 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.47885501 -33.46129243 105.0790 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.47942541 -33.46580192 105.8799 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.47991803 -33.46904589 105.2222 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.48342229 -33.47208669 106.1094 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.47967006 -33.47266632 104.3065 264.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.48236133 -33.45637288 106.2650 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.47800693 -33.45707299 103.7478 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -61.47692576 -33.44880911 102.9400 176.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre.xml -61.48736695 -33.45138161 105.9166 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre.xml -61.48637565 -33.45233876 106.1032 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre.xml -61.48532298 -33.44731680 107.1717 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre.xml -61.49008229 -33.45042786 107.6524 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre.xml -61.48667839 -33.44597810 106.1402 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre.xml -61.48781329 -33.44769676 106.1892 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre.xml -61.48501795 -33.44370848 105.1455 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre.xml -61.48494805 -33.45000033 111.7094 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_30_18.ac -61.48454725 -33.46403110 108.5675 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/5_populus.xml -61.48265177 -33.46622535 106.7058 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/5_populus.xml -61.48464304 -33.46380387 108.5546 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/5_populus.xml -61.48511827 -33.46649269 107.4002 84.0 0.0 -0.0
+
+------------------------------------------------------------------
+
+
+
+
+# w070s40/w062s34/1936930.stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -61.34122781 -33.47142756 101.5370 28.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_14x20m.ac -61.30201301 -33.43917418 99.3951 304.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/beacon_white.xml -61.30177295 -33.43922505 99.3463 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/beech33.xml -61.30441413 -33.44145142 99.8422 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/beech33.xml -61.30446764 -33.44136893 99.8390 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/beech33.xml -61.30458043 -33.44130171 99.8444 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/beech33.xml -61.30504207 -33.44181271 99.9571 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/beech33.xml -61.30517691 -33.44172069 99.9621 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/beech33.xml -61.30529739 -33.44165163 99.9684 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/beech33.xml -61.30168391 -33.43928329 99.3949 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/beech33.xml -61.30192757 -33.43941556 99.1680 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -61.34248753 -33.46533387 101.1014 300.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml -61.34376991 -33.46564090 101.0559 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml -61.34297049 -33.46520763 101.0769 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml -61.34209923 -33.46479034 101.1029 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml -61.34142866 -33.46442545 101.1226 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml -61.34074049 -33.46410598 101.1452 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_AGE.ac -61.34121567 -33.46384732 101.1169 32.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_AGE.ac -61.34192409 -33.46292649 101.0624 216.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.xml -61.34143240 -33.46344041 101.0969 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.xml -61.34178562 -33.46360016 101.0851 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.xml -61.34193186 -33.46347294 101.0754 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.xml -61.34156417 -33.46330095 101.0841 0.0 0.0 -0.0
+
+# w070s40/w062s34/1936931.stg
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.18488197 -33.37655544 97.1719 304.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -61.18127087 -33.37697439 97.6651 300.0 0.0 -0.0
+
+# w070s40/w061s34/1953320.stg
+OBJECT_SHARED Models/Residential/zone_maisons_grd-ba.ac -60.97030884 -33.26799410 71.5738 332.0 0.0 -0.0
+
+# w070s40/w062s34/1936922.stg
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.46368585 -33.52589148 102.9483 304.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.46784241 -33.52801489 101.3091 300.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -61.46460696 -33.52901770 101.7143 304.0 0.0 -0.0
+
+# w070s40/w062s34/1936921.stg
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.60506021 -33.60099123 106.5232 320.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.60244804 -33.59843648 113.5592 228.0 0.0 -0.0
+
+# w070s40/w063s34/1920539.stg
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -62.13618832 -33.51288317 122.1315 76.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.12700425 -33.59101837 118.4971 352.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.12424832 -33.59523069 117.7283 256.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.12830248 -33.59446336 117.6924 168.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.12336082 -33.59175271 119.8735 352.0 0.0 -0.0
+
+# w070s40/w062s34/1936913.stg
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -61.68773732 -33.69400770 111.2172 324.0 0.0 -0.0
+
+# w070s40/w063s34/1920546.stg
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.44106166 -33.45846388 122.7929 348.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.43739948 -33.45915210 123.7328 352.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.44215367 -33.46242283 124.3867 348.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.43826158 -33.46327910 124.6642 256.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.43446243 -33.46407407 125.8406 264.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.33513251 -33.48073623 120.8601 349.9 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.33449331 -33.47711580 123.6603 352.0 0.0 -0.0
+
+# w070s40/w062s34/1936939.stg
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.18007026 -33.37361558 98.7067 24.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -61.18288504 -33.37487125 98.6486 28.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.05566569 -33.31088942 85.6959 40.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.05119432 -33.30903075 81.8960 28.0 0.0 -0.0
+
+# w070s40/w062s34/1936920.stg
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -61.97434948 -33.54312627 111.3567 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -61.97271237 -33.54377363 110.9545 132.0 0.0 -0.0
+
+# w070s40/w061s34/1953328.stg
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.90070772 -33.17514788 67.6111 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.89496101 -33.17079103 66.0189 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.89796909 -33.17296409 68.0107 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.89702957 -33.17406471 70.4595 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.89426562 -33.17175871 65.6334 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -60.90052949 -33.17630956 67.2380 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_carre.xml -60.91384842 -33.20305052 59.6474 0.0 0.0 -0.0
+
+------------------------------------------------------------------

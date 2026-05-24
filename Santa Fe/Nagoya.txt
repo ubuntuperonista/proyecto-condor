@@ -1,0 +1,307 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     -32.42131114 deg
+Longitude:    -59.81625012 deg
+Altitude ASL: 514.2473 m (1687.1632 ft)
+40Heading:      41.7 deg
+Ground Elev:  55.9523 m (183.5704 ft)
+
+# w060s40/w060s33/1969760.stg
+OBJECT_STATIC -59.81625012 -32.42131114 55.9523 318.3
+
+http://maps.google.com/maps?ll=-32.4213111363,-59.8162501171&z=12&t=h
+$ fgfs --aircraft=ufo --lat=-32.421311 --lon=-59.816250 --altitude=1687.16 --heading=30.4
+
+
+------------------------ Selected Object -------------------------
+Path:         Models/Residential/zone_maisons_long.xml
+Latitude:     -32.39370168 deg
+Longitude:    -59.74658441 deg
+Altitude ASL: 42.9975 m (141.0678 ft)
+Heading:      72.0 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.15237215 -32.62783028 51.6176 312.0 0.0 -0.0
+
+# Lines for stg
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.74658441 -32.39370168 42.9975 288.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74936589 -32.39706335 42.3674 280.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74705919 -32.39692382 45.9882 272.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74471595 -32.39704154 49.4101 264.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74609506 -32.40402513 44.8523 272.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74370238 -32.40406900 48.2327 264.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74304235 -32.39877346 54.3033 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74288940 -32.40084575 53.8198 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74249645 -32.40276860 51.0315 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69574969 -32.39992661 64.8552 264.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69583981 -32.40027574 64.9327 264.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69591588 -32.40062175 65.1876 264.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69598284 -32.40094517 65.0549 264.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69600267 -32.40129076 64.4272 264.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69569443 -32.39959073 64.7118 264.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69601828 -32.40162605 64.0192 264.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69607066 -32.40193048 63.6551 264.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.53090834 -32.38431865 90.6988 328.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/windsock.xml -59.74798813 -32.40398254 43.0750 0.0 0.0 -0.0
+
+# Lines for stg
+OBJECT_SHARED Models/Trees/line_trees.xml -60.11235696 -32.60729539 51.3326 312.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/2silo_16m.ac -60.11078188 -32.60704918 50.3316 24.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.14241999 -32.62035148 51.4870 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.15066323 -32.61055146 45.4627 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.16756792 -32.62012738 45.2467 32.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.15935707 -32.61857717 51.9900 120.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.03478783 -32.53203027 67.0753 24.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.03896457 -32.53324137 66.8683 24.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.03295837 -32.53562981 71.9844 24.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.03663986 -32.53692780 72.5247 300.0 0.0 -0.0
+
+# Lines for stg
+OBJECT_SHARED Models/Airport/windsock.xml -59.75333673 -32.39449924 38.2877 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/office32x25n.ac -59.75273820 -32.39604052 42.0409 192.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/lfga-refuel.xml -59.75292699 -32.39542493 39.8551 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac -59.75335956 -32.39527093 39.2799 192.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac -59.75419653 -32.39427436 37.7766 24.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_40x40m_tan.xml -59.75431128 -32.39480919 38.0749 116.0 0.0 -0.0
+OBJECT_SHARED Models/Communications/vhf_antenna_multiband_base_station_sa.ac -59.75426034 -32.39448005 37.8397 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/kmtn-modular-hangar.ac -59.75395802 -32.39510483 39.1017 206.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75405799 -32.39513814 39.2051 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75353573 -32.39544631 39.4293 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75353052 -32.39556687 39.6005 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75354475 -32.39565404 39.7146 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75459826 -32.39539900 39.3027 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75484692 -32.39517967 38.4543 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75511699 -32.39497179 37.9580 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75535903 -32.39468196 37.6817 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75512436 -32.39533439 38.5469 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75543288 -32.39506233 37.9923 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75602811 -32.39466974 37.6138 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75627521 -32.39433235 37.6567 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75387779 -32.39547318 39.4406 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75384697 -32.39556762 39.5159 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75566523 -32.39396837 37.7951 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75514495 -32.39406085 37.8311 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75479438 -32.39418722 37.8425 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75468250 -32.39403105 37.8863 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75435387 -32.39383515 37.9616 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75456096 -32.39385311 37.9358 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Maison_8-5x7m_Metal.ac -59.75382554 -32.39523131 39.1856 208.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/pa181.ac -59.75408032 -32.39456811 38.0456 288.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c150blue1.ac -59.75395722 -32.39451985 37.9623 288.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c150blue1.ac -59.75379803 -32.39507756 39.0463 20.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.79214099 -32.39021438 46.2566 48.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.80472080 -32.38611738 45.4027 120.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.79814222 -32.39498144 49.7706 320.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.78093612 -32.39482429 42.5505 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Maison_8-5x7m_Metal.ac -59.81194800 -32.41267127 59.6903 312.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_22x18m.ac -59.81260434 -32.41438224 62.1970 136.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Maison_8-5x7m_beton.ac -59.81185763 -32.41288555 59.5436 44.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81290463 -32.41511222 62.8254 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81314841 -32.41503435 63.0138 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81333314 -32.41490310 63.1504 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81821252 -32.41799425 62.7889 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81730334 -32.41707680 64.1733 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81621537 -32.41617798 65.3487 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81541859 -32.41538410 66.0223 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81998891 -32.41959766 60.7675 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.81658375 -32.41528160 67.2621 312.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81159408 -32.41288844 59.6345 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81196138 -32.41245046 59.5607 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81278387 -32.41415387 62.2825 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81336200 -32.41434811 62.8874 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81353656 -32.41454864 63.1892 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81267256 -32.41404187 62.1190 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81311157 -32.41429075 62.6302 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81302620 -32.41485062 62.8242 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81290303 -32.41495772 62.7562 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.81172432 -32.41847259 60.8637 316.6 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.81327574 -32.41986779 56.9369 316.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.81500794 -32.42144179 56.1237 315.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81667603 -32.41653132 64.7838 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81104867 -32.41608661 62.0626 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81076994 -32.41639053 61.9955 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81032807 -32.41664293 61.8605 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81010081 -32.41691191 61.8090 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81928936 -32.41890883 61.0114 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81852783 -32.41830928 62.0800 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81473021 -32.41493442 65.1912 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.82071787 -32.41990796 59.6809 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81171774 -32.41258870 59.1869 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.81191511 -32.41286929 59.7661 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.81213309 -32.41271807 60.0812 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.81325651 -32.41447171 62.8352 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.81170178 -32.41237792 59.0078 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/farola.xml -59.81266232 -32.41457903 62.3426 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/tank1.xml -59.81250184 -32.41427392 61.8712 48.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81426205 -32.41746382 62.5861 136.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81448167 -32.41729998 62.8465 136.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81691197 -32.41968995 58.4487 136.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81713615 -32.41951709 58.6665 136.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81580317 -32.41840366 61.2619 134.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81560842 -32.41860570 60.9637 136.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81623877 -32.41912646 59.9658 135.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81646620 -32.41895528 60.0041 136.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81753135 -32.42020916 57.2539 136.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81774486 -32.42003065 57.4452 136.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81507214 -32.41779111 62.1240 136.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81486513 -32.41797380 61.8151 136.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81377814 -32.41706962 63.1522 136.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81400802 -32.41688139 63.4273 140.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/pa181.ac -59.81274144 -32.41471280 62.4826 320.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/4silo_12m.ac -59.81267674 -32.41093302 58.3532 48.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/4silo_12m.ac -59.81250891 -32.41081974 57.7738 48.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/2silo_16m.ac -59.81275547 -32.41108355 59.0124 48.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.81330155 -32.41125008 59.8039 232.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.88476818 -32.46553612 77.3056 124.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.89683409 -32.46890738 79.3427 312.0 0.0 -0.0
+
+# Lines for stg
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.97450678 -32.51615332 77.7474 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.97495515 -32.51636948 78.3243 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.97538282 -32.51651205 78.8231 0.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.15237215 -32.62783028 51.6176 312.0 -7.4 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.74658441 -32.39370168 42.9975 288.0 -3.1 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74936589 -32.39706335 42.3674 280.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74705919 -32.39692382 45.9882 272.0 0.3 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74471595 -32.39704154 49.4101 264.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74609506 -32.40402513 44.8523 272.0 -0.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74370238 -32.40406900 48.2327 264.0 0.4 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74304235 -32.39877346 54.3033 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74288940 -32.40084575 53.8198 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.74249645 -32.40276860 51.0315 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69574969 -32.39992661 64.8552 264.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69583981 -32.40027574 64.9327 264.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69591588 -32.40062175 65.1876 264.0 0.3 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69598284 -32.40094517 65.0549 264.0 0.5 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69600267 -32.40129076 64.4272 264.0 0.2 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69569443 -32.39959073 64.7118 264.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69601828 -32.40162605 64.0192 264.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.69607066 -32.40193048 63.6551 264.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.53090834 -32.38431865 90.6988 328.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/windsock.xml -59.74798813 -32.40398254 43.0750 0.0 -0.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Trees/line_trees.xml -60.11235696 -32.60729539 51.3326 312.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/2silo_16m.ac -60.11078188 -32.60704918 50.3316 24.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.14241999 -32.62035148 51.4870 312.0 -1.3 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.15066323 -32.61055146 45.4627 312.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.16756792 -32.62012738 45.2467 32.0 -0.9 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -60.15935707 -32.61857717 51.9900 120.0 -7.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.03478783 -32.53203027 67.0753 24.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.03896457 -32.53324137 66.8683 24.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.03295837 -32.53562981 71.9844 24.0 0.3 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -60.03663986 -32.53692780 72.5247 300.0 0.6 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Airport/windsock.xml -59.75333673 -32.39449924 38.2877 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/office32x25n.ac -59.75273820 -32.39604052 42.0409 192.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/lfga-refuel.xml -59.75292699 -32.39542493 39.8551 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac -59.75335956 -32.39527093 39.2799 192.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac -59.75419653 -32.39427436 37.7766 24.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_40x40m_tan.xml -59.75431128 -32.39480919 38.0749 116.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Communications/vhf_antenna_multiband_base_station_sa.ac -59.75426034 -32.39448005 37.8397 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/kmtn-modular-hangar.ac -59.75395802 -32.39510483 39.1017 206.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75405799 -32.39513814 39.2051 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75353573 -32.39544631 39.4293 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75353052 -32.39556687 39.6005 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75354475 -32.39565404 39.7146 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75459826 -32.39539900 39.3027 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75484692 -32.39517967 38.4543 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75511699 -32.39497179 37.9580 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75535903 -32.39468196 37.6817 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75512436 -32.39533439 38.5469 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75543288 -32.39506233 37.9923 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75602811 -32.39466974 37.6138 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.75627521 -32.39433235 37.6567 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75387779 -32.39547318 39.4406 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75384697 -32.39556762 39.5159 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75566523 -32.39396837 37.7951 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75514495 -32.39406085 37.8311 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75479438 -32.39418722 37.8425 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75468250 -32.39403105 37.8863 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75435387 -32.39383515 37.9616 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -59.75456096 -32.39385311 37.9358 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Maison_8-5x7m_Metal.ac -59.75382554 -32.39523131 39.1856 208.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/pa181.ac -59.75408032 -32.39456811 38.0456 288.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c150blue1.ac -59.75395722 -32.39451985 37.9623 288.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c150blue1.ac -59.75379803 -32.39507756 39.0463 20.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.79214099 -32.39021438 46.2566 48.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.80472080 -32.38611738 45.4027 120.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.79814222 -32.39498144 49.7706 320.0 0.6 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.78093612 -32.39482429 42.5505 0.0 0.7 0.0 -0.0
+OBJECT_SHARED Models/Airport/Maison_8-5x7m_Metal.ac -59.81194800 -32.41267127 59.6903 312.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_22x18m.ac -59.81260434 -32.41438224 62.1970 136.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Maison_8-5x7m_beton.ac -59.81185763 -32.41288555 59.5436 44.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81290463 -32.41511222 62.8254 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81314841 -32.41503435 63.0138 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81333314 -32.41490310 63.1504 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81821252 -32.41799425 62.7889 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81730334 -32.41707680 64.1733 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81621537 -32.41617798 65.3487 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81541859 -32.41538410 66.0223 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/populus-tree.xml -59.81998891 -32.41959766 60.7675 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.81658375 -32.41528160 67.2621 312.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81159408 -32.41288844 59.6345 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81196138 -32.41245046 59.5607 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81278387 -32.41415387 62.2825 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81336200 -32.41434811 62.8874 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81353656 -32.41454864 63.1892 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81267256 -32.41404187 62.1190 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81311157 -32.41429075 62.6302 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81302620 -32.41485062 62.8242 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa_large.xml -59.81290303 -32.41495772 62.7562 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.81172432 -32.41847259 60.8637 316.6 0.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.81327574 -32.41986779 56.9369 316.0 -1.3 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.81500794 -32.42144179 56.1237 315.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81667603 -32.41653132 64.7838 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81104867 -32.41608661 62.0626 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81076994 -32.41639053 61.9955 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81032807 -32.41664293 61.8605 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81010081 -32.41691191 61.8090 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81928936 -32.41890883 61.0114 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81852783 -32.41830928 62.0800 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.81473021 -32.41493442 65.1912 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.82071787 -32.41990796 59.6809 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.81171774 -32.41258870 59.1869 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.81191511 -32.41286929 59.7661 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.81213309 -32.41271807 60.0812 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.81325651 -32.41447171 62.8352 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.81170178 -32.41237792 59.0078 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/farola.xml -59.81266232 -32.41457903 62.3426 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/tank1.xml -59.81250184 -32.41427392 61.8712 48.0 -0.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81426205 -32.41746382 62.5861 136.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81448167 -32.41729998 62.8465 136.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81691197 -32.41968995 58.4487 136.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81713615 -32.41951709 58.6665 136.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81580317 -32.41840366 61.2619 134.2 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81560842 -32.41860570 60.9637 136.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81623877 -32.41912646 59.9658 135.6 0.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81646620 -32.41895528 60.0041 136.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81753135 -32.42020916 57.2539 136.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81774486 -32.42003065 57.4452 136.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81507214 -32.41779111 62.1240 136.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81486513 -32.41797380 61.8151 136.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81377814 -32.41706962 63.1522 136.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml -59.81400802 -32.41688139 63.4273 140.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/pa181.ac -59.81274144 -32.41471280 62.4826 320.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/4silo_12m.ac -59.81267674 -32.41093302 58.3532 48.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/4silo_12m.ac -59.81250891 -32.41081974 57.7738 48.0 -0.2 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/2silo_16m.ac -59.81275547 -32.41108355 59.0124 48.0 0.3 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.81330155 -32.41125008 59.8039 232.0 0.2 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.88476818 -32.46553612 77.3056 124.0 0.2 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.89683409 -32.46890738 79.3427 312.0 0.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.97450678 -32.51615332 77.7474 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.97495515 -32.51636948 78.3243 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_130x18m.ac -59.97538282 -32.51651205 78.8231 0.0 0.0 0.0 -0.0
+
