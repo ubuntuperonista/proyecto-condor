@@ -1,0 +1,47 @@
+
+
+# w060s40/w060s34/1969722.stg
+OBJECT_SHARED Models/Trees/line_trees.xml -59.44548924 -33.03430778 14.9369 336.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.44439089 -33.03228008 15.3124 336.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.44795980 -33.03582391 14.3186 252.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.44083667 -33.03497764 15.9494 320.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.44336272 -33.03860128 15.6660 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.44347441 -33.03854089 15.6506 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.44321156 -33.03856966 15.6943 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -59.44327801 -33.03864850 15.6776 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hold-lights.xml -59.44556820 -33.03734925 15.7738 352.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hold-lights.xml -59.44563828 -33.03765059 15.4825 352.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hold-lights.xml -59.43926689 -33.03856629 17.3360 356.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hold-lights.xml -59.43928221 -33.03868751 16.4205 176.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_barn.ac -59.44623551 -33.03507619 14.6239 36.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_new.xml -59.44561952 -33.03579166 14.9148 156.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Eucalipto10m.xml -59.44583293 -33.03548090 15.0324 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Eucalipto10m.xml -59.44591276 -33.03558374 14.9240 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Eucalipto10m.xml -59.44606322 -33.03572665 14.8007 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Eucalipto10m.xml -59.44606779 -33.03590113 14.6482 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Eucalipto10m.xml -59.44604713 -33.03550915 14.9691 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Eucalipto10m.xml -59.44612205 -33.03538494 14.9133 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Eucalipto10m.xml -59.44624140 -33.03561428 14.8563 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/Eucalipto10m.xml -59.44629157 -33.03578826 14.8338 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -59.44530536 -33.03561146 15.2333 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -59.44547085 -33.03592459 15.0641 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -59.44563715 -33.03623973 14.7920 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -59.44578229 -33.03608769 14.7372 245.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/silo_tank_10m.xml -59.44550883 -33.03547509 15.1217 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/light_pole_sbrj.xml -59.44526448 -33.03546373 14.9241 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/light_pole_sbrj.xml -59.44595621 -33.03598423 14.8060 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar5.xml -59.44707382 -33.03509806 14.5692 332.3 0.0 -0.0
+OBJECT_SHARED Models/Airport/marker.ac -59.44727920 -33.03652721 14.2658 348.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-t-single-white-01.xml -59.44544016 -33.03529794 14.6102 64.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/GenericFuelStore2.ac -59.44644991 -33.03570487 14.7207 252.0 0.0 -0.0
+
+# w060s40/w060s34/1969714.stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.31214098 -33.14303689 13.0757 8.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.31113855 -33.15332317 11.8472 4.0 0.0 -0.0
+OBJECT_SHARED Models/Sport/horseracetrack.ac -59.29958401 -33.13267057 12.2016 48.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.32520343 -33.13199157 15.0700 348.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.32546508 -33.16424160 7.9673 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.34156245 -33.16367045 8.5222 0.0 0.0 -0.0
+
+------------------------------------------------------------------
+

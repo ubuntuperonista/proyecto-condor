@@ -1,0 +1,143 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     -33.01201939 deg
+Longitude:    -58.60986092 deg
+Altitude ASL: 208.5571 m (684.2425 ft)
+39Heading:      319.7 deg
+Ground Elev:  31.7564 m (104.1875 ft)
+
+# w060s40/w059s34/1986105.stg
+OBJECT_STATIC -58.60986092 -33.01201939 31.7564 40.3
+
+http://maps.google.com/maps?ll=-33.0120193912,-58.6098609209&z=12&t=h
+$ fgfs --aircraft=ufo --lat=-33.012019 --lon=-58.609861 --altitude=684.24 --heading=303.3
+
+
+------------------------ Selected Object -------------------------
+Path:         Models/Industrial/Zone_Indus_petit.xml
+Latitude:     -33.03787075 deg
+Longitude:    -58.61471709 deg
+Altitude ASL: 30.1695 m (98.9812 ft)
+Heading:      108.0 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# 
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -58.61471709 -33.03787075 30.1695 252.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -58.61087458 -33.03693551 30.9930 308.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -58.61659442 -33.02525981 23.8282 268.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -58.61424162 -33.02528321 23.1273 268.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -58.61704634 -33.03084416 25.2816 268.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -58.61946416 -33.03082321 26.8206 272.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/1silo_20m.ac -58.63026354 -33.04111801 30.3143 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/1silo_20m.ac -58.63026990 -33.04135359 30.6115 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/1silo_20m.ac -58.63025206 -33.04160856 30.8842 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/1silo_20m.ac -58.63024473 -33.04186492 31.1683 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/1silo_20m.ac -58.63023297 -33.04208093 31.3545 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/brick-shed.ac -58.63102926 -33.04136459 30.7173 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/brick-farm.ac -58.63100306 -33.04094833 30.4565 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/4silo_8m.ac -58.62989816 -33.04128483 30.1260 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/4silo_8m.ac -58.62974381 -33.04126362 29.9185 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/cow-stable.ac -58.63141522 -33.04103941 30.1721 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -58.63205464 -33.04224886 29.6267 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -58.63202935 -33.04428700 29.7387 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -58.63488116 -33.04207744 22.5424 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -58.63483114 -33.04412565 23.1231 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.63215561 -33.04106496 29.2211 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.63218544 -33.04094021 29.1597 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.63218430 -33.04080997 29.1273 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_plantation.xml -58.63570393 -33.04151355 21.6708 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/cow-stable.ac -58.63438920 -33.04122750 24.4556 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/cow-stable.ac -58.63375055 -33.04114561 26.5569 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/brick-farm.ac -58.63326924 -33.04112209 27.9430 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/brick-farm.ac -58.63430077 -33.04174694 24.9521 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.63402631 -33.04250492 25.8617 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.63353559 -33.04237004 27.3066 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.63313323 -33.04231788 28.0266 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.63431130 -33.04235168 25.0013 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.63375735 -33.04222648 26.6347 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar-small.xml -58.60963753 -33.01253636 25.0925 92.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_15x25m.ac -58.61011041 -33.01196620 24.2793 4.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/office32x25n.ac -58.60935745 -33.01202094 24.9544 324.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/appliance_room.ac -58.61021365 -33.01270232 24.4524 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/beacon_white.xml -58.61011933 -33.01267943 24.4783 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -58.61168749 -33.01145410 21.6808 228.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -58.61118682 -33.01182396 22.6925 228.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -58.61093257 -33.01201166 23.1378 228.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -58.61070099 -33.01218044 23.6555 228.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/fuel_EPCD.ac -58.60998037 -33.01269999 24.7156 96.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grde_zone_eclairage.xml -58.60991318 -33.01175847 24.9170 4.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hang42x29m.ac -58.60968616 -33.01217432 24.9900 5.4 0.0 -0.0
+OBJECT_SHARED Models/Residential/admin.ac -58.60924758 -33.01244729 25.3895 288.0 0.0 -0.0
+OBJECT_SHARED Models/Sport/SwimmingPool.xml -58.60895559 -33.01242411 25.1876 216.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac -58.60879745 -33.01176397 23.7080 16.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac -58.60901733 -33.01182393 23.9347 16.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac -58.60922804 -33.01188270 24.1693 16.0 -6.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac -58.60943747 -33.01192883 24.4002 12.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac -58.60841538 -33.01166522 23.4110 16.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac -58.60814944 -33.01183450 23.5492 272.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac -58.60814774 -33.01229894 24.4458 272.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac -58.60906759 -33.01263835 25.7132 0.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac -58.60852048 -33.01263482 25.3517 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_15x25m.ac -58.61032638 -33.01198135 24.1753 4.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -58.61138868 -33.01166983 23.3409 228.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -58.61207092 -33.01117419 20.9977 228.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -58.61208535 -33.01097675 20.7293 224.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -58.61166344 -33.01129694 21.5434 228.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -58.61133070 -33.01155002 22.2201 228.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -58.61107806 -33.01174223 22.7074 228.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -58.61082127 -33.01193868 23.2268 228.9 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -58.61062894 -33.01208976 23.5978 228.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60885361 -33.01212403 24.5071 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60872991 -33.01209181 24.3788 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60852293 -33.01202104 24.1279 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60938453 -33.01204150 24.5846 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60928055 -33.01196865 24.3785 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60929008 -33.01235346 25.2086 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60937905 -33.01261045 25.3942 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60928838 -33.01260510 25.4949 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60916338 -33.01260057 25.6344 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.60935558 -33.01248041 25.3932 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.60939193 -33.01267489 25.3933 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.60940670 -33.01212696 24.7785 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/PiperCherokee140.ac -58.61041412 -33.01261288 24.3157 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c150blue1.ac -58.61042309 -33.01248624 23.8861 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c150blue1.ac -58.60990086 -33.01239123 24.6310 183.9 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/horse-farm.ac -58.60963733 -33.01315668 25.2634 4.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/horse-farm.ac -58.60901846 -33.01316860 25.9326 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60876312 -33.01340135 26.1440 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60890469 -33.01341473 25.9834 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60908599 -33.01341579 25.7826 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60925461 -33.01338521 25.6055 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60936568 -33.01339205 25.4293 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60948042 -33.01339324 25.4362 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60964223 -33.01337722 25.3140 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60975855 -33.01338220 25.2120 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60929120 -33.01295039 25.6977 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60927397 -33.01308966 25.6742 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60925607 -33.01323377 25.6500 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60829976 -33.01294573 25.6722 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60853182 -33.01295722 25.8921 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60875668 -33.01296211 26.0984 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60896816 -33.01295417 26.0537 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60982165 -33.01273361 24.9231 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60799752 -33.01127413 22.2751 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60800808 -33.01089012 21.4571 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60802976 -33.01023478 20.6453 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60806530 -33.00956133 19.7255 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60812271 -33.00855020 19.3933 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60824175 -33.00762079 19.4527 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60827653 -33.00627582 18.6789 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60832787 -33.00531678 18.2887 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60822429 -33.00694274 18.5575 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60855646 -33.00253927 17.1174 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60849174 -33.00327448 16.6810 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60842948 -33.00409562 16.8808 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60838982 -33.00476026 17.6410 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.60992545 -33.01337366 25.1361 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/horse-farm.ac -58.60523426 -33.01229755 21.4305 272.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/horse-farm.ac -58.60260022 -33.00776113 17.5474 168.0 0.0 -0.0
+
