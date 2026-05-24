@@ -1,0 +1,106 @@
+------------------------------ UFO -------------------------------
+Latitude:     -33.04129571 deg
+Longitude:    -58.56397389 deg
+Altitude ASL: 612.1855 m (2008.4827 ft)
+40Heading:      189.2 deg
+Ground Elev:  6.9392 m (22.7665 ft)
+
+# w060s40/w059s34/1986105.stg
+OBJECT_STATIC -58.56397389 -33.04129571 6.9392 170.8
+
+http://maps.google.com/maps?ll=-33.0412957116,-58.5639738908&z=12&t=h
+$ fgfs --aircraft=ufo --lat=-33.041296 --lon=-58.563974 --altitude=2008.48 --heading=169.6
+
+
+------------------------ Selected Object -------------------------
+Path:         Models/Residential/suburban-area.xml
+Latitude:     -34.43100194 deg
+Longitude:    -57.85021042 deg
+Altitude ASL: 39.5809 m (129.8585 ft)
+Heading:      -8.0 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# 
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.29993232 -33.12337619 17.4685 332.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.48023186 -33.02367145 7.3274 264.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.49542373 -33.02045811 5.2797 24.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.46167280 -33.02771309 13.1023 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.46587158 -33.01508446 12.3896 336.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.47173847 -33.00722302 5.2517 338.4 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.22733251 -33.53398356 5.8006 20.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -58.00857109 -34.11679259 76.3979 336.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -58.00923877 -34.12348587 70.7781 312.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/suburban-area.xml -57.43155791 -34.42979177 -0.0870 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -57.43493640 -34.43382730 8.9272 4.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/suburban-area.xml -57.23073929 -34.28651270 45.7039 312.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.08048798 -34.17433154 29.4257 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long-ba.ac -58.07254597 -34.19576792 2.2642 16.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long-ba.ac -58.09071091 -34.17867175 12.9577 240.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long-ba.ac -58.09515152 -34.17719857 10.7928 264.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long-ba.ac -58.10018857 -34.17564044 22.7013 72.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.02922835 -34.15258359 49.1115 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.03068544 -34.16213668 43.1529 348.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.01886157 -34.13264385 69.0034 316.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.05283439 -34.22297899 10.1683 40.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -58.23041089 -33.98068371 14.4252 0.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/suburban-area.xml -57.85021042 -34.43100194 39.5809 8.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.28672909 -33.13027286 14.8694 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.27867939 -33.14139921 26.2680 24.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.50696144 -33.00642347 7.3630 352.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.52242398 -33.00442112 11.6413 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.55895830 -33.00824265 12.2755 8.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.55902737 -33.01329374 18.4623 8.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.54465772 -33.00473897 29.0409 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.53839283 -33.01696903 12.0437 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.54243105 -33.02851843 12.9900 0.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -55.52565637 -34.79553059 6.8699 172.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -55.53455538 -34.79562488 4.4662 264.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -55.56164367 -34.78507136 5.2118 76.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/suburban-area.xml -56.40001679 -34.75872645 10.8229 68.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -56.31621513 -34.85092333 43.8774 60.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -56.36672845 -34.78499153 4.2573 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -56.38284711 -34.78121971 1.8518 332.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.28310531 -33.99768396 15.2592 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.28303218 -33.98598625 13.6600 0.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/suburban-area.xml -55.28733769 -34.85311233 14.7537 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -55.27183203 -34.86638384 14.0970 316.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.28507362 -34.01199318 3.7045 321.6 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -58.26669208 -34.01351399 14.9546 0.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/suburban-area.xml -54.93870558 -34.94069349 19.7093 308.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -54.93449313 -34.96170068 5.0642 240.0 0.0 -0.0
+
+# 
+OBJECT_SHARED Models/Residential/suburban-area.xml -57.25711707 -34.29891530 41.4262 228.0 0.0 -0.0
