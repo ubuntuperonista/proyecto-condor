@@ -1,0 +1,19 @@
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.25532132 -35.51063418 33.8799 288.0 1.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.10237925 -35.48567952 25.8671 16.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.09734191 -35.48491309 26.7102 312.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.09978100 -35.48292034 27.6461 288.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.10540908 -35.48378412 24.5036 284.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.09731984 -35.48085444 28.6592 312.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.10005129 -35.48120978 25.6096 312.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.12988502 -35.49014695 29.1797 312.0 0.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.33227833 -35.40035059 37.3432 48.0 4.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.34399712 -35.39434020 31.8215 312.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.33403093 -35.39300149 30.0989 320.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.33957114 -35.38536941 29.0618 220.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.32806621 -35.40518215 32.9458 312.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.33999036 -35.40430910 33.8024 36.0 0.0 0.0 -0.0
