@@ -213,3 +213,37 @@ OBJECT_SHARED Models/Trees/line_trees.xml -58.09786876 -38.29658620 30.0719 312.
 OBJECT_SHARED Models/Trees/line_trees.xml -58.09575970 -38.29501459 29.9255 312.0 0.0 -0.0
 OBJECT_SHARED Models/Residential/zone_maisons_long.xml -58.10701769 -38.28739398 34.7467 316.0 0.0 -0.0
 
+#---------
+#Agregado de árboles
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/suburban-area.xml -57.84249019 -38.10877062 62.7340 4.0 -2.7 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -57.84068539 -38.12099666 52.0653 188.0 0.1 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -57.87216924 -38.23919142 15.5668 324.0 -1.5 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -57.86847494 -38.24150664 17.8810 312.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -57.86510946 -38.24406902 16.7156 324.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -57.86937607 -38.21707566 27.1354 41.7 0.2 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -57.86784607 -38.21853552 29.3251 40.0 -0.2 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -57.86589909 -38.21824760 26.6538 316.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -57.86338492 -38.21816525 28.8891 48.0 -0.3 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -57.86391684 -38.21510763 28.7613 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -57.86401351 -38.21295849 33.0957 0.0 1.4 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -57.87324111 -38.21381623 24.7982 44.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -57.86699865 -38.20683708 27.2793 24.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -57.86553176 -38.20888980 32.5883 24.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -57.86432770 -38.21099535 34.2454 24.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -57.86559346 -38.21722449 26.4296 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -57.86476273 -38.21650353 27.2248 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -57.86500913 -38.21665061 26.8984 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -57.86428122 -38.21574622 27.3326 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -57.86435766 -38.21671180 27.7176 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -57.86511781 -38.21700931 26.9815 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -57.86204377 -38.22065736 29.9470 320.0 4.3 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -57.86190804 -38.21922040 26.2668 48.0 -0.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -57.86207327 -38.22002332 26.5241 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -57.86255045 -38.22044939 27.0085 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -57.87316461 -38.23055645 21.2697 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -57.87351395 -38.23033727 21.4194 168.0 -0.0 0.0 -0.0
+
