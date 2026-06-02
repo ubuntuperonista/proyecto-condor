@@ -1,0 +1,34 @@
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.28291992 -33.14615080 91.4600 340.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.27951309 -33.14196810 92.0795 336.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.27708597 -33.14641858 90.6903 332.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.27421596 -33.14273452 89.1456 332.0 0.2 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -61.46847623 -33.14276352 97.0316 196.0 0.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.32083956 -33.10305241 93.3334 24.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac -61.31866483 -33.07185946 87.1453 112.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -61.31934845 -33.07281843 87.6699 24.0 -0.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -61.31885307 -33.07267990 87.7629 312.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -61.31873604 -33.07258568 87.7047 312.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/cf.ac -61.31858904 -33.07246067 87.6245 312.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/appliance_room.ac -61.31895780 -33.07282405 87.8585 24.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/StopMarker.ac -61.31929276 -33.07307397 87.9976 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/StopMarker.ac -61.31927457 -33.07214190 87.3165 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/StopMarker.ac -61.31964505 -33.07237394 87.7796 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pompe_100LL.ac -61.31899330 -33.07278622 87.8220 24.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/HorizTanks2.ac -61.31885604 -33.07280722 87.8434 20.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml -61.31890117 -33.07280543 87.8540 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/AFT.ac -61.31873921 -33.07170800 87.2635 22.1 0.3 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/dr221blue1.ac -61.31864816 -33.07207071 87.3160 20.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c180jred1.ac -61.31805297 -33.07185282 87.2516 204.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -61.31893449 -33.07183291 87.0752 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -61.31889479 -33.07191309 87.1461 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -61.31886559 -33.07198841 87.2112 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.31794800 -33.07222692 87.5678 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -61.31848920 -33.07199425 87.2843 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.32541732 -33.09935010 91.8088 24.0 0.4 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -61.55193053 -32.96460873 91.5006 336.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -61.55477021 -32.96391306 91.1468 344.0 0.0 0.0 -0.0
