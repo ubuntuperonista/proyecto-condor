@@ -1,0 +1,74 @@
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.62101761 -33.61051518 132.5446 352.0 0.3 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.62689175 -33.60973034 133.9472 344.0 -1.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.62265704 -33.60685508 131.6942 356.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.74090770 -33.59138181 124.0676 352.0 -0.4 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.73979676 -33.58665936 120.5253 260.0 -0.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/suburban-area.xml -62.88461415 -33.56566276 126.7559 348.0 1.1 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/2silo_16m.ac -62.86813685 -33.56859513 124.7673 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/2silo_16m.ac -62.86774084 -33.56864198 124.7446 0.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/Maison_8-5x7m_Metal.ac -62.86961553 -33.55678385 120.1149 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Maison_8-5x7m_Metal.ac -62.86977471 -33.55680623 120.1082 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Maison_8-5x7m_beton.ac -62.86994305 -33.55692326 120.3541 0.0 -0.0 -144.0 -0.0
+OBJECT_SHARED Models/Airport/LOIU_windsock_lit.xml -62.86952167 -33.55700566 120.2895 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/LFMDhangar2.ac -62.87020609 -33.55736812 120.6124 176.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Communications/Antenna-House.ac -62.87022661 -33.55684499 120.2100 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/beacon_white.xml -62.87008134 -33.55779244 120.5542 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/anemometer_10m.xml -62.86937167 -33.55683901 120.1596 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/pa181.ac -62.86972639 -33.55779751 120.3907 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-open.ac -62.86979099 -33.55815433 120.3879 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/Ulm_White.ac -62.86765595 -33.55838893 119.8968 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/TB20.xml -62.86946834 -33.55817531 120.2380 0.0 0.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/suburban-area.xml -62.25607605 -33.72168556 117.9324 316.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -62.40591545 -33.64231314 125.1135 348.0 -0.0 0.0 -0.0
+
+
+# Lines for upload form
+OBJECT_SHARED Models/Sport/SwimmingPool.xml -63.35294717 -33.44875039 149.7288 352.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -63.35225085 -33.44801636 149.4897 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Sport/tennis_red.ac -63.35253111 -33.44874378 149.6139 352.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_22x18m.ac -63.35238158 -33.44799365 149.5501 263.1 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_20x25m.ac -63.35253346 -33.44789529 149.6488 260.6 0.1 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c172blue1.ac -63.35230318 -33.44752143 149.4508 264.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/dauphin.xml -63.35255797 -33.44747755 149.5307 176.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c180jred1.ac -63.35277259 -33.44766688 149.6107 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -63.35222300 -33.44865340 149.5234 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -63.35224399 -33.44880812 149.5393 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -63.35226231 -33.44900662 149.5670 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -63.35487447 -33.44703745 150.1523 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -63.35465799 -33.44704063 150.0924 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -63.35432486 -33.44711056 150.0043 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -63.35402268 -33.44710133 149.9200 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -63.35367102 -33.44715494 149.8261 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -63.35339353 -33.44716743 149.7502 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -63.35302414 -33.44729938 149.6567 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.35235996 -33.44843562 149.5468 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.35245390 -33.44844531 149.5732 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.35259290 -33.44838561 149.6075 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.35268252 -33.44838204 149.6319 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.35008179 -33.45471280 148.7430 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.35002602 -33.45449053 148.7044 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.34998404 -33.45429727 148.6783 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.34993946 -33.45407191 148.6529 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.34991049 -33.45386615 148.6431 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.34987907 -33.45367930 148.6285 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.34983913 -33.45344435 148.6098 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.34978381 -33.45320212 148.5746 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.34974917 -33.45287745 148.5723 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.34972769 -33.45266027 148.5728 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.35239355 -33.44965748 149.6370 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.35240705 -33.44977313 149.6485 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.35242544 -33.44990870 149.6628 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -63.35244139 -33.45001780 149.6746 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.29213729 -33.40960445 147.8006 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.29165325 -33.41552634 145.5196 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.29743575 -33.41272205 146.2518 0.0 0.3 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.28812886 -33.40946456 143.2146 16.0 -0.7 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.30346562 -33.43109886 145.4153 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.30795169 -33.43005555 144.3771 352.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.29767049 -33.43170665 147.1029 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.29324962 -33.43782390 142.2295 0.0 -0.0 0.0 -0.0
