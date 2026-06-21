@@ -1,0 +1,156 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     -35.78240254 deg
+Longitude:    -63.71607376 deg
+Altitude ASL: 926.9918 m (3041.3117 ft)
+40Heading:      157.2 deg
+Ground Elev:  129.7688 m (425.7507 ft)
+
+# w070s40/w064s36/1904009.stg
+OBJECT_STATIC -63.71607376 -35.78240254 129.7688 202.8
+
+http://maps.google.com/maps?ll=-35.7824025436,-63.7160737609&z=12&t=h
+$ fgfs --aircraft=ufo --lat=-35.782403 --lon=-63.716074 --altitude=3041.31 --heading=152.2
+
+
+------------------------ Selected Object -------------------------
+Path:         Models/Trees/line_trees.xml
+Latitude:     -35.68621790 deg
+Longitude:    -63.75835997 deg
+Altitude ASL: 139.7477 m (458.4898 ft)
+Heading:      -18.3 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED Models/Residential/suburban-area.xml -63.73726133 -35.65557633 133.4973 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.74295517 -35.67614492 138.3109 288.0 0.0 -0.0
+
+# Lines for stg
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.71384647 -35.77956430 128.8126 24.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.71541041 -35.77575043 129.5775 24.0 0.0 -0.0
+
+# Lines for stg
+OBJECT_SHARED Models/Trees/line_trees.xml -63.75835997 -35.68621790 139.7477 18.3 0.0 -0.0
+OBJECT_SHARED Models/Airport/tower_aeroklub.xml -63.75888525 -35.68667508 139.9743 196.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.ac -63.75898573 -35.68593368 139.6995 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/weather-station.ac -63.75913859 -35.68741406 138.8458 40.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/zone_services.ac -63.75884940 -35.68666379 139.6165 18.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/windsock.xml -63.75931770 -35.68604698 139.6843 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/office32x25n.ac -63.75840980 -35.68736325 139.0357 108.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/markerboard.ac -63.75875737 -35.68711774 139.5000 120.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/markerboard.ac -63.76365374 -35.69002337 136.3305 60.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/helipad_square.xml -63.75947801 -35.68758320 138.5213 196.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-t-single-white-01.ac -63.75996237 -35.68622115 139.4711 104.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-42fx42f-tan-01.ac -63.75966101 -35.68616863 139.7429 104.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac -63.75874489 -35.68754121 138.9249 288.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_15x25m.ac -63.76026177 -35.68611199 139.5278 332.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -63.76006410 -35.68659871 139.1107 18.5 0.0 --0.3
+OBJECT_SHARED Models/Airport/grille.xml -63.75961395 -35.68686311 138.8691 197.4 -0.4 -0.7
+OBJECT_SHARED Models/Airport/grille.xml -63.75992663 -35.68694808 138.4477 197.9 -0.4 -0.6
+OBJECT_SHARED Models/Airport/grille.xml -63.76038357 -35.68668566 138.5333 18.5 0.0 --0.9
+OBJECT_SHARED Models/Airport/hangar_15x25m.ac -63.75950912 -35.68680839 139.1250 292.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-45fx36f-white-01.ac -63.75971333 -35.68663705 139.5145 19.3 0.0 -0.0
+OBJECT_SHARED Models/Airport/hang31x21m.ac -63.75966438 -35.68645240 139.4468 19.9 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/cessna_caravan_lowpoly.ac -63.75899967 -35.68758326 138.7721 104.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c180jred1.ac -63.76035473 -35.68628802 139.0481 332.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/dauphin.xml -63.75978127 -35.68762205 138.0726 200.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/dhc6_lowpoly.ac -63.75903348 -35.68662591 139.9108 108.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/dr221blue1.ac -63.75890261 -35.68683909 140.0425 288.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac -63.75889991 -35.68723928 139.0915 20.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c180jred1.ac -63.75988598 -35.68630856 139.3749 284.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c180jred1.ac -63.75950788 -35.68697945 139.0232 192.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/jetranger.xml -63.75988786 -35.68768126 138.2988 208.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/lionceau.ac -63.76050991 -35.68618832 139.0189 192.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/pa181.ac -63.76025081 -35.68717088 138.4840 116.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/pa181.ac -63.76001449 -35.68633534 139.1530 284.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/r44-white.ac -63.76004158 -35.68767065 138.6368 200.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -63.75095392 -35.68541726 138.8692 104.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone-Indus.xml -63.78147785 -35.68195524 137.8557 356.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -63.77962832 -35.68509186 137.2532 304.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -63.77475253 -35.68086317 137.3028 132.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -63.77801876 -35.68138223 136.7921 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Schenker_storehouse35x30.xml -63.77731022 -35.69044384 136.9683 48.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Schenker_storehouse35x30.xml -63.77846051 -35.68933078 136.2542 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Schenker_storehouse35x30.xml -63.77621135 -35.69186252 136.7480 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Usine_150_50.ac -63.77783707 -35.68782205 136.3558 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -63.77531013 -35.66602575 136.6381 44.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.77177536 -35.67379439 143.5517 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.77500387 -35.67634569 138.6221 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.78249340 -35.67627776 137.6878 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.77880930 -35.67740721 136.9715 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.77438077 -35.69360941 135.8332 216.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.77617204 -35.68644416 137.2520 312.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.78321134 -35.68703206 136.4740 40.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/suburban-area.xml -63.73726133 -35.65557633 133.4973 312.0 -1.3 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.74295517 -35.67614492 138.3109 288.0 0.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.71384647 -35.77956430 128.8126 24.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.71541041 -35.77575043 129.5775 24.0 -0.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Trees/line_trees.xml -63.75835997 -35.68621790 139.7477 18.3 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/tower_aeroklub.xml -63.75888525 -35.68667508 139.9743 196.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.ac -63.75898573 -35.68593368 139.6995 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/weather-station.ac -63.75913859 -35.68741406 138.8458 40.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/zone_services.ac -63.75884940 -35.68666379 139.6165 18.5 -0.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/windsock.xml -63.75931770 -35.68604698 139.6843 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/office32x25n.ac -63.75840980 -35.68736325 139.0357 108.0 -0.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/markerboard.ac -63.75875737 -35.68711774 139.5000 120.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/markerboard.ac -63.76365374 -35.69002337 136.3305 60.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/helipad_square.xml -63.75947801 -35.68758320 138.5213 196.0 0.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-t-single-white-01.ac -63.75996237 -35.68622115 139.4711 104.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-42fx42f-tan-01.ac -63.75966101 -35.68616863 139.7429 104.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac -63.75874489 -35.68754121 138.9249 288.0 -0.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_15x25m.ac -63.76026177 -35.68611199 139.5278 332.0 0.3 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -63.76006410 -35.68659871 139.1107 18.5 0.2 0.0 --0.3
+OBJECT_SHARED Models/Airport/grille.xml -63.75961395 -35.68686311 138.8691 197.4 -0.2 -0.4 -0.7
+OBJECT_SHARED Models/Airport/grille.xml -63.75992663 -35.68694808 138.4477 197.9 -0.2 -0.4 -0.6
+OBJECT_SHARED Models/Airport/grille.xml -63.76038357 -35.68668566 138.5333 18.5 0.1 0.0 --0.9
+OBJECT_SHARED Models/Airport/hangar_15x25m.ac -63.75950912 -35.68680839 139.1250 292.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-45fx36f-white-01.ac -63.75971333 -35.68663705 139.5145 19.3 0.4 0.0 -0.0
+OBJECT_SHARED Models/Airport/hang31x21m.ac -63.75966438 -35.68645240 139.4468 19.9 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/cessna_caravan_lowpoly.ac -63.75899967 -35.68758326 138.7721 104.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c180jred1.ac -63.76035473 -35.68628802 139.0481 332.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/dauphin.xml -63.75978127 -35.68762205 138.0726 200.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/dhc6_lowpoly.ac -63.75903348 -35.68662591 139.9108 108.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/dr221blue1.ac -63.75890261 -35.68683909 140.0425 288.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac -63.75889991 -35.68723928 139.0915 20.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c180jred1.ac -63.75988598 -35.68630856 139.3749 284.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c180jred1.ac -63.75950788 -35.68697945 139.0232 192.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/jetranger.xml -63.75988786 -35.68768126 138.2988 208.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/lionceau.ac -63.76050991 -35.68618832 139.0189 192.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/pa181.ac -63.76025081 -35.68717088 138.4840 116.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/pa181.ac -63.76001449 -35.68633534 139.1530 284.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/r44-white.ac -63.76004158 -35.68767065 138.6368 200.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -63.75095392 -35.68541726 138.8692 104.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone-Indus.xml -63.78147785 -35.68195524 137.8557 356.0 0.3 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -63.77962832 -35.68509186 137.2532 304.0 -0.4 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -63.77475253 -35.68086317 137.3028 132.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -63.77801876 -35.68138223 136.7921 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Schenker_storehouse35x30.xml -63.77731022 -35.69044384 136.9683 48.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Schenker_storehouse35x30.xml -63.77846051 -35.68933078 136.2542 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Schenker_storehouse35x30.xml -63.77621135 -35.69186252 136.7480 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Usine_150_50.ac -63.77783707 -35.68782205 136.3558 0.0 -0.2 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -63.77531013 -35.66602575 136.6381 44.0 -0.3 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.77177536 -35.67379439 143.5517 312.0 0.6 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -63.77500387 -35.67634569 138.6221 312.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.78249340 -35.67627776 137.6878 312.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.77880930 -35.67740721 136.9715 312.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.77438077 -35.69360941 135.8332 216.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.77617204 -35.68644416 137.2520 312.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.78321134 -35.68703206 136.4740 40.0 0.1 0.0 -0.0
+
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.45172135 -36.25352568 117.7047 288.0 0.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.75034362 -36.50999202 143.5772 0.0 -0.0 0.0 -0.0
+
