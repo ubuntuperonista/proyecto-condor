@@ -154,3 +154,64 @@ OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.45172135 -36.25352568
 # Lines for upload form
 OBJECT_SHARED Models/Residential/zone_maisons_long.xml -63.75034362 -36.50999202 143.5772 0.0 -0.0 0.0 -0.0
 
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -64.27784822 -36.60350448 183.8708 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -64.27791887 -36.60692240 181.7275 264.0 0.2 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -64.27320982 -36.60570442 182.9031 0.0 -0.4 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -64.27280304 -36.60902859 182.6833 0.0 1.3 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -64.27797760 -36.60994362 179.7159 192.0 0.3 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -64.28907111 -36.59438532 196.2572 352.3 2.9 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -64.29034766 -36.60477442 182.4710 352.0 0.7 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -64.28001456 -36.57873467 190.7627 0.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -64.28003515 -36.57430656 194.5824 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -64.26783715 -36.60562127 182.1664 300.0 -0.5 0.0 -0.0
+OBJECT_SHARED Models/Sport/TennisCourt.ac -64.28030579 -36.59714123 189.1888 268.2 1.1 0.0 -0.0
+OBJECT_SHARED Models/Sport/terrain_de_foot_generic.ac -64.28034194 -36.59560405 189.7703 1.4 1.2 0.0 -0.0
+OBJECT_SHARED Models/Communications/SETI_Radio_Telescope.ac -64.28010610 -36.59242306 189.9939 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Communications/atc_antenna_vhf-uhf-omnidi_sa.ac -64.27991852 -36.59241283 189.8044 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Buildings/bank-building.ac -64.28036948 -36.58942082 190.7306 84.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/office112x50.ac -64.27939134 -36.58841439 191.0628 172.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/kakrterminal.ac -64.27975220 -36.58911230 190.9886 172.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/lfga-refuel.xml -64.27974157 -36.58951084 191.1236 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/it_sign1.ac -64.27969231 -36.58943951 191.1096 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hold-lights.xml -64.27653965 -36.58827997 188.4487 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hang31x21m.ac -64.27916479 -36.58422092 191.3230 184.0 0.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/hang42x29m.ac -64.27924455 -36.58465093 191.6700 184.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar4.ac -64.27945247 -36.58770055 190.7676 172.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/tourBastia.ac -64.27975433 -36.58780120 190.5650 260.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar5.ac -64.27937060 -36.58722854 190.5546 172.0 -0.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangcyl30x18.ac -64.27939699 -36.58684873 190.6635 352.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar4.ac -64.27981653 -36.58970804 191.1379 172.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -64.28084609 -36.59370040 191.1770 0.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -64.28075499 -36.58874310 190.3794 0.0 -0.2 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -64.27984525 -36.58632143 191.8394 264.0 1.3 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -64.28089722 -36.59641471 190.2933 359.0 -0.2 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -64.27979268 -36.59008718 190.9765 264.0 0.1 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Trees/line_trees.xml -64.18870101 -36.58909304 179.3464 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -64.18860817 -36.58662494 180.4818 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -64.18877437 -36.58544019 181.0301 284.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -64.19287879 -36.58777834 181.7717 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -64.19293913 -36.59005778 179.7328 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -64.19289348 -36.59216131 178.1964 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -64.19285278 -36.59420168 178.4450 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -64.19095461 -36.58793707 180.7050 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/fuelstation_lszr.ac -64.18842625 -36.59006262 178.9094 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/grille.xml -64.18855948 -36.59119618 178.5232 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar-small.xml -64.18864423 -36.59119448 178.5301 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hang31x21m.ac -64.18865845 -36.59037046 178.9213 4.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/hang42x29m.ac -64.18873932 -36.59072119 178.9047 184.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/bud_meteo.xml -64.18840969 -36.58791392 179.8873 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/MedHangar.ac -64.18822340 -36.58841572 179.6363 180.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/MedHangar.ac -64.18811109 -36.58681334 180.2428 92.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Maison_8-5x7m_beton.ac -64.18825137 -36.58620249 180.5468 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Maison_8-5x7m_beton.ac -64.18829184 -36.58588299 180.6941 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/LightPole_12m.xml -64.18833079 -36.58809798 179.7946 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/LightPole_12m.xml -64.18779463 -36.58673496 180.2058 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/LightPole_12m.xml -64.18827217 -36.58866208 179.5419 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/LightPole_12m.xml -64.18855661 -36.59053371 178.9035 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/LightPole_12m.xml -64.18851802 -36.59087949 178.8087 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/LightPole_12m.xml -64.18857389 -36.59141880 178.3520 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_16_22.ac -64.18820059 -36.58731875 180.1064 180.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_16_22.ac -64.18819929 -36.58754106 179.9933 180.0 0.0 0.0 -0.0
