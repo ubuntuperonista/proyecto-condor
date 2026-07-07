@@ -1,0 +1,45 @@
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -61.99175648 -31.40181478 109.3229 28.0 0.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.10603806 -31.36871003 114.8267 0.0 0.1 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Trees/line_trees.xml -62.13431734 -31.42076625 115.2972 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -62.13430737 -31.41864124 115.4041 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -62.13432125 -31.41655961 115.5765 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -62.13438654 -31.41454101 115.7077 0.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -62.13411654 -31.41450887 115.6923 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -62.13398800 -31.41455693 115.7189 168.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/silo_tank_10m.ac -62.13428133 -31.41358626 115.7431 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -62.13433345 -31.41234178 115.8041 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/zone_services.ac -62.13412484 -31.41378823 115.7267 180.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-42fx42f-tan-01.ac -62.13426423 -31.41347708 115.7519 4.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-42fx42f-tan-01.ac -62.13427157 -31.41330103 115.7582 1.6 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac -62.13423185 -31.41268243 115.7791 92.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-45fx36f-white-01.ac -62.13409432 -31.41297884 115.7797 180.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/helipad40m.ac -62.13400326 -31.41504556 115.6809 340.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/signal_square.xml -62.13406216 -31.41239550 115.8333 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-40fx30f-02.ac -62.13422935 -31.41125587 115.8838 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -62.13427618 -31.41200498 115.8271 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -62.13428401 -31.41176902 115.8415 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -62.13430116 -31.41156923 115.8522 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -62.13434828 -31.41330530 115.7326 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -62.13436604 -31.41313876 115.7405 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -62.13398087 -31.40417120 116.3975 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -62.13388870 -31.40288092 116.4723 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -62.13411060 -31.40437891 116.3760 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -62.13420906 -31.41411208 115.7028 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/dr221blue1.ac -62.13389320 -31.41243437 115.8559 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/pa181.ac -62.13409001 -31.41371422 115.7452 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -62.12769357 -31.44832445 116.8582 348.0 2.3 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -62.10310930 -31.43269070 116.6222 348.0 -1.8 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -62.10219777 -31.42221633 117.4872 352.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -62.11639691 -31.41876909 118.6565 260.0 0.5 0.0 -0.0
+OBJECT_SHARED Models/Residential/suburban-area.xml -62.08135442 -31.41306057 118.3498 0.0 1.3 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.30276694 -31.40518757 111.6194 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.30845874 -31.40515814 114.8502 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.30935510 -31.40958975 116.5485 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -62.30364917 -31.40940772 112.1222 0.0 0.0 0.0 -0.0
