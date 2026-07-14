@@ -371,3 +371,64 @@ OBJECT_SHARED Models/Trees/line_trees.xml -58.76091566 -35.26932732 26.8308 72.0
 OBJECT_SHARED Models/Trees/line_trees.xml -58.75859556 -35.26999237 26.8575 72.0 0.0 -0.0
 
 
+# Lines for upload form
+OBJECT_SHARED Models/Trees/line_trees.xml -59.07960355 -36.03705729 36.3224 48.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.08160914 -36.03673652 38.8433 48.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.08345723 -36.03703550 37.7237 324.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.08318822 -36.03862979 38.1926 48.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.08024665 -36.03754939 36.7382 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.08062518 -36.03777321 37.2535 168.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.08050561 -36.03603519 37.0774 288.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.08017579 -36.03559991 35.5810 84.0 -0.6 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.08487127 -36.03128358 39.8052 48.0 1.8 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.08471982 -36.03183972 40.5866 312.0 -18.6 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/3silo_12m.ac -59.08359667 -36.03115641 37.1720 312.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/3silo_12m.ac -59.08348013 -36.03122828 36.9569 312.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/2silo_8m.ac -59.08333605 -36.03106164 36.9266 48.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/2silo_20m.ac -59.08316918 -36.03092752 36.8708 44.9 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/cattle-farm.ac -59.08415378 -36.03055217 37.8794 128.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/cattle-farm.ac -59.13472159 -36.03959762 41.2785 312.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/foursquare-crop-farm.ac -59.13528448 -36.03978649 37.5985 40.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/horse-stable.ac -59.13422564 -36.03985993 44.8778 316.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/groundtile.ac -59.13413218 -36.03928875 52.6383 312.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Power/cell_condenser_2x4.ac -59.14401494 -36.02922520 37.6543 48.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Power/pompe1.ac -59.14404575 -36.02963712 36.9662 48.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Power/rw_generic_pylon_50m.xml -59.14480388 -36.02894913 38.0513 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Power/rw_generic_pylon_50m.xml -59.14320208 -36.03028056 36.1959 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -59.14329727 -36.02925518 36.9724 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -59.14432789 -36.02862626 36.8695 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Power/transformer_station.ac -59.14348546 -36.02901533 37.0180 48.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Power/transformer_station.ac -59.14394142 -36.02871692 36.7043 48.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Power/transformer.ac -59.14354327 -36.02956444 36.6571 48.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -59.14337606 -36.02945388 36.6638 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.14550207 -36.03072996 37.3712 316.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.14624253 -36.03003544 37.6358 312.0 0.3 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.14617624 -36.03067079 37.0749 52.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/crop-farm.ac -59.14578066 -36.03034616 37.7325 48.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/cow-stable.ac -59.14644615 -36.03104067 36.9826 312.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/cow-stable.ac -59.14676815 -36.03075915 36.9744 136.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/cow-stable.ac -59.14515525 -36.02844038 37.0505 48.0 -0.2 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/farmhouse4-white.ac -59.14575469 -36.03005978 37.9168 48.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/farmhouse4-white.ac -59.14706828 -36.03102494 36.9724 48.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/farmhouse4-white.ac -59.13449192 -36.03998944 39.7011 48.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/farmhouse4-white.ac -59.13493883 -36.03933778 41.4414 144.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_plantation.xml -59.13368946 -36.03879969 53.0573 44.0 5.9 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_plantation.xml -59.15060495 -36.03006306 36.5491 320.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_plantation.xml -59.14979731 -36.03055461 36.7698 319.2 0.1 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.08970076 -36.07142451 37.9505 47.3 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.08706222 -36.07121148 36.8292 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/treeset1.ac -59.08772232 -36.07044286 37.7895 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/cow-stable.ac -59.08763954 -36.07071696 37.7586 320.0 -0.2 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/farmhouse4-white.ac -59.08730881 -36.07077178 37.6851 72.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/horse-farm.ac -59.08726287 -36.07049367 37.1686 48.0 -0.7 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/large-shed.ac -59.08740632 -36.04820378 36.3922 36.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/large-shed.ac -59.08104989 -36.03762910 38.1567 48.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Agriculture/large-shed.ac -59.08157558 -36.03737939 38.7736 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Industrial/wood_chip_heap_small.ac -59.08214560 -36.03852359 38.5937 312.0 1.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Misc/stonepier50.ac -59.08411795 -36.03416676 37.0535 136.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Misc/stonepier50.ac -59.08365282 -36.03391707 36.6912 320.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/Pont_3.xml -59.08395702 -36.03403396 36.9743 316.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/Pont_2.xml -59.08295775 -36.03489778 37.1900 316.0 -0.2 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.14513990 -36.15008502 41.6116 0.0 -0.5 0.0 -0.0
